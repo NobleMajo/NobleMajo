@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **halsmaulmajo@coreunit.net**
 
-- ⚡ My approach **don't learn anything. do something!**
+- ⚡ My approach **don't learn anything. do anything!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
