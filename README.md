@@ -25,8 +25,7 @@
 📫 How to reach me **halsmaulmajo@coreunit.net**<br>
 ⚡ My approach: **Every 60 seconds in africa, a minute pass!** Help me stop that!<br>
 
-<h3 align="left"><u>Github stats:</u></h3>
-<hr>
+<h2 align="left"><u>Github stats</u></h2>
 <p align="center">
   <span>
      <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
@@ -35,7 +34,6 @@
 </p>
 
 <h2 align="left"><u>Some languages and tools i used befor</u></h2>
-<hr>
 <p align="left">
     <a href="https://angular.io" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
@@ -141,7 +139,6 @@
 </p>
 
 <h2 align="left"><u>Connect me</u></h2>
-<hr>
 <p align="left">
   <a href="https://dev.to/halsmaulmajo" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="40" width="40" />
@@ -162,7 +159,6 @@
 </p>
 
 <h2 align="left"><u>Github trophys</u></h2>
-<hr>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=halsmaulmajo" alt="halsmaulmajo" />
