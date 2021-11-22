@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=halsmaulmajo&label=Profile%20views&color=0e75b6&style=flat" alt="halsmaulmajo" />
+</p>
+
 <h3 align="center">
   A passionate fullstack developer from germany :3
 </h3>
@@ -6,10 +10,6 @@
   <a href="https://projects.coreunit.net/majo">gitlab</a>
   rather than github
 </h4>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=halsmaulmajo&label=Profile%20views&color=0e75b6&style=flat" alt="halsmaulmajo" />
-</p>
 
 <h3 align="left"><u>About me:</u></h3>
 <hr>
@@ -142,22 +142,25 @@
     </a>
 </p>
 
-<h3 align="left"><u>Github stats:</u></h3>
-<hr>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=halsmaulmajo" alt="halsmaulmajo" />
-  </a>
-</p>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halsmaulmajo&show_icons=true&locale=en&layout=compact" alt="halsmaulmajo" />
+</p>
+
+<h3 align="left"><u>Github stats:</u></h3>
+<hr>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
 </p>
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=halsmaulmajo" alt="halsmaulmajo" />
+  </a>
 </p>
+
+
+cya ;3
