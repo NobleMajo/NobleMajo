@@ -2,7 +2,9 @@
   A passionate fullstack developer from germany :3
 </h3>
 <h4 align="center">
-  Don't be surprised, I use gitlab rather than github
+  Don't be surprised, I use my own
+  <a href="https://projects.coreunit.net/majo">gitlab</a>
+  rather than github
 </h4>
 
 <p align="left">
