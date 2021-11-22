@@ -17,8 +17,6 @@
   </h4>
 </p>
 
-
-
 <h3 align="left"><u>About me:</u></h3>
 <hr>
 🔭 I’m currently working on [fleetform] (private)<br>
