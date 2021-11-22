@@ -143,16 +143,14 @@
 </p>
 
 <p align="left" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halsmaulmajo&show_icons=true&locale=en&layout=compact" alt="halsmaulmajo" />
+  <img align="center" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=halsmaulmajo&show_icons=true&locale=en&layout=compact" alt="halsmaulmajo" />
 </p>
 
 <h3 align="left"><u>Github stats:</u></h3>
 <hr>
 <p align="center">
-  <img align="center" style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
-</p>
-<p align="center">
-  <img align="center" style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
+  <img align="center" style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
+  <img align="center" style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
 </p>
 
 <p align="center">
