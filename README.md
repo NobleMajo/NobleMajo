@@ -153,7 +153,6 @@
     <div>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
     </div>
-
     <div>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
     </div>
