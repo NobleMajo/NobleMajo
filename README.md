@@ -148,12 +148,14 @@
 
 <h3 align="left"><u>Github stats:</u></h3>
 <hr>
-<p>
+<p style="display: flex; flex-direction: row; flex-wrap: wrap; flex-flow: row wrap; justify-content: center; align-items: stretch">
+<div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
-</p>
+</div>
 
-<p>&nbsp;
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
+</div>
 </p>
 
 <p align="center">
