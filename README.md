@@ -140,7 +140,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=halsmaulmajo&show_icons=true&locale=en&layout=compact" alt="halsmaulmajo" />
 </p>
 
-<h3 align="left"><u>Connect with me:</u></h3>
+<h3 align="left"><u>Connect me:</u></h3>
 <hr>
 <p align="left">
   <a href="https://dev.to/halsmaulmajo" target="blank">
