@@ -149,19 +149,15 @@
 <h3 align="left"><u>Github stats:</u></h3>
 <hr>
 <p align="center">
-  <div style="display: flex; flex-direction: row; flex-wrap: wrap; flex-flow: row wrap; justify-content: center; align-items: stretch">
-    <div>
-      <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
-    </div>
-    <div>
-      <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
-    </div>
-  </div>
+  <img align="center" min-width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
+</p>
+<p align="center">
+  <img align="center" min-width="80%" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=halsmaulmajo" alt="halsmaulmajo" />
+    <img align="center" min-width="80%" src="https://github-profile-trophy.vercel.app/?username=halsmaulmajo" alt="halsmaulmajo" />
   </a>
 </p>
 
