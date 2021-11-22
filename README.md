@@ -19,6 +19,15 @@
 📫 How to reach me **halsmaulmajo@coreunit.net**<br>
 ⚡ My approach: **Every 60 seconds in africa, a minute pass!** Help me stop that!<br>
 
+<h3 align="left"><u>Github stats:</u></h3>
+<hr>
+<p align="center">
+  <span>
+     <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
+    <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
+  </span>
+</p>
+
 <h3 align="left"><u>Connect with me:</u></h3>
 <hr>
 <p align="left">
@@ -144,15 +153,6 @@
 
 <p align="left" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=halsmaulmajo&show_icons=true&locale=en&layout=compact" alt="halsmaulmajo" />
-</p>
-
-<h3 align="left"><u>Github stats:</u></h3>
-<hr>
-<p align="center">
-  <span>
-     <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
-    <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
-  </span>
 </p>
 
 <h3 align="left"><u>Github trophys:</u></h3>
