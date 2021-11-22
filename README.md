@@ -28,7 +28,7 @@
   </span>
 </p>
 
-<h3 align="left"><u>Languages and Tools:</u></h3>
+<h3 align="left"><u>Some languages and tools i used befor:</u></h3>
 <hr>
 <p align="left">
     <a href="https://angular.io" target="_blank">
