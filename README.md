@@ -26,11 +26,11 @@
   </a>
   <a href="https://discord.gg/K4xEUce4" target="blank">
     <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=96" height="40" width="40" />
-    Programming Discord<br>
+    Programming Discord (Admin)<br>
   </a>
   <a href="https://coreunit.net/discord" target="blank">
     <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="40" width="40" />
-    CoreUnit.NET Discord<br>
+    CoreUnit.NET Discord (Owner)<br>
   </a>
   <a href="mailto:halsmaulmajo@coreunit.net" target="blank">
     <img align="center" src="https://www.svgrepo.com/show/17588/mail.svg" height="40" width="40" />
