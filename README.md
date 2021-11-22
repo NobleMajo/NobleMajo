@@ -38,7 +38,7 @@
     </span>
   </p>
   
-  <h1 align="left"><u>Some languages and tools i used befor</u></h1>
+  <h2 align="left"><u>Some languages and tools i used befor</u></h2>
   <p align="left">
       <a href="https://angular.io" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
