@@ -150,8 +150,8 @@
 <hr>
 <p align="center">
   <span>
-     <img align="center" style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
-    <img align="center" style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
+     <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
+    <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
   </span>
 </p>
 
