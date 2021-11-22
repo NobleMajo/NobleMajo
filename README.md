@@ -155,6 +155,8 @@
   </span>
 </p>
 
+<h3 align="left"><u>Github trophys:</u></h3>
+<hr>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=halsmaulmajo" alt="halsmaulmajo" />
