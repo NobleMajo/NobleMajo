@@ -11,11 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=halsmaulmajo&label=Profile%20views&color=0e75b6&style=flat" alt="halsmaulmajo" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=halsmaulmajo" alt="halsmaulmajo" />
-  </a>
-</p>
+<h3 align="left"><u>About me:</u></h3>
 <hr>
 🔭 I’m currently working on [fleetform] (private)<br>
 👨‍💻 All of my public projects are available at [https://projects.coreunit.net/majo](https://projects.coreunit.net/majo)<br>
@@ -23,7 +19,7 @@
 📫 How to reach me **halsmaulmajo@coreunit.net**<br>
 ⚡ My approach: **Every 60 seconds in africa, a minute pass!** Help me stop that!<br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><u>Connect with me:</u></h3>
 <hr>
 <p align="left">
   <a href="https://dev.to/halsmaulmajo" target="blank">
@@ -44,7 +40,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><u>Languages and Tools:</u></h3>
 <hr>
 <p align="left">
     <a href="https://angular.io" target="_blank">
@@ -146,7 +142,14 @@
     </a>
 </p>
 
+<h3 align="left"><u>Github stats:</u></h3>
 <hr>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=halsmaulmajo" alt="halsmaulmajo" />
+  </a>
+</p>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halsmaulmajo&show_icons=true&locale=en&layout=compact" alt="halsmaulmajo" />
 </p>
