@@ -7,17 +7,17 @@
 <br>
 
 <p>
-  <h3 align="center" style="display: inline;">
+  <h3 align="center">
     A passionate fullstack developer from germany :3
   </h3>
-  <h4 align="center" style="display: inline;">
+  <h4 align="center">
     Don't be surprised, I use my own
     <a href="https://projects.coreunit.net/majo">gitlab</a>
     rather than github
   </h4>
 </p>
 
-<h3 align="left"><u>About me:</u></h3>
+<h2 align="left"><u>About me</u></h2>
 <hr>
 🔭 I’m currently working on [fleetform] (private)<br>
 👨‍💻 All of my public projects are available at [https://projects.coreunit.net/majo](https://projects.coreunit.net/majo)<br>
@@ -34,7 +34,7 @@
   </span>
 </p>
 
-<h3 align="left"><u>Some languages and tools i used befor:</u></h3>
+<h2 align="left"><u>Some languages and tools i used befor</u></h2>
 <hr>
 <p align="left">
     <a href="https://angular.io" target="_blank">
@@ -140,7 +140,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=halsmaulmajo&show_icons=true&locale=en&layout=compact" alt="halsmaulmajo" />
 </p>
 
-<h3 align="left"><u>Connect me:</u></h3>
+<h2 align="left"><u>Connect me</u></h2>
 <hr>
 <p align="left">
   <a href="https://dev.to/halsmaulmajo" target="blank">
@@ -161,7 +161,7 @@
   </a>
 </p>
 
-<h3 align="left"><u>Github trophys:</u></h3>
+<h2 align="left"><u>Github trophys</u></h2>
 <hr>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
