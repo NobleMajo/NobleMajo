@@ -2,19 +2,21 @@
   <img src="https://komarev.com/ghpvc/?username=halsmaulmajo&label=Profile%20views&color=0e75b6&style=flat" alt="halsmaulmajo" />
 </p>
 
-<div style="display: inline;">
-  <img src="https://avatars.githubusercontent.com/u/39386799?s=48&v=4" alt="HalsMaulMajo">
-  <div width="100%">
-    <h3 align="center">
+<span>
+  <span>
+    <img src="https://avatars.githubusercontent.com/u/39386799?s=48&v=4" alt="HalsMaulMajo">
+  </span>
+  <span width="100%">
+    <h3 align="center" style="display: inline;">
       A passionate fullstack developer from germany :3
     </h3>
-    <h4 align="center">
+    <h4 align="center" style="display: inline;">
       Don't be surprised, I use my own
       <a href="https://projects.coreunit.net/majo">gitlab</a>
       rather than github
     </h4>
-  </div>
-</div>
+  </span>
+</span>
 
 
 
