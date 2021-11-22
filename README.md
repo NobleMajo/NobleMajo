@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halsmaulmajo&label=Profile%20views&color=0e75b6&style=flat" alt="halsmaulmajo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halsmaulmajo" alt="halsmaulmajo" /></a> </p>
-🔭 I’m currently working on [fleetform] (private)  
-👨‍💻 All of my public projects are available at [https://projects.coreunit.net/majo](https://projects.coreunit.net/majo)  
-💬 Ask me about **java, typescript, angular, docker, kubernetes, express.js, oop, databases**  
-📫 How to reach me **halsmaulmajo@coreunit.net**  
-⚡ My approach: **Every 60 seconds in africa, a minute pass!** Help me stop that!  
+🔭 I’m currently working on [fleetform] (private)<br>
+👨‍💻 All of my public projects are available at [https://projects.coreunit.net/majo](https://projects.coreunit.net/majo)<br>
+💬 Ask me about **java, typescript, angular, docker, kubernetes, express.js, oop, databases**<br>
+📫 How to reach me **halsmaulmajo@coreunit.net**<br>
+⚡ My approach: **Every 60 seconds in africa, a minute pass!** Help me stop that!<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
