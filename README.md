@@ -151,10 +151,10 @@
 <p align="center">
   <div style="display: flex; flex-direction: row; flex-wrap: wrap; flex-flow: row wrap; justify-content: center; align-items: stretch">
     <div>
-      <img align="center" width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
+      <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
     </div>
     <div>
-      <img align="center" width="440px" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
+      <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
     </div>
   </div>
 </p>
