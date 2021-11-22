@@ -17,8 +17,7 @@
   </h4>
 </p>
 
-<h2 align="left"><u>About me</u></h2>
-<hr>
+<h1 align="left"><u>About me</u></h1>
 🔭 I’m currently working on [fleetform] (private)<br>
 👨‍💻 All of my public projects are available at [https://projects.coreunit.net/majo](https://projects.coreunit.net/majo)<br>
 💬 Ask me about **java, typescript, angular, docker, kubernetes, express.js, oop, databases**<br>
