@@ -7,11 +7,16 @@
   rather than github
 </h4>
 
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=halsmaulmajo&label=Profile%20views&color=0e75b6&style=flat" alt="halsmaulmajo" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halsmaulmajo" alt="halsmaulmajo" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=halsmaulmajo" alt="halsmaulmajo" />
+  </a>
+</p>
+<hr>
 🔭 I’m currently working on [fleetform] (private)<br>
 👨‍💻 All of my public projects are available at [https://projects.coreunit.net/majo](https://projects.coreunit.net/majo)<br>
 💬 Ask me about **java, typescript, angular, docker, kubernetes, express.js, oop, databases**<br>
@@ -19,6 +24,7 @@
 ⚡ My approach: **Every 60 seconds in africa, a minute pass!** Help me stop that!<br>
 
 <h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
   <a href="https://dev.to/halsmaulmajo" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="40" width="40" />
@@ -39,6 +45,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<hr>
 <p align="left">
     <a href="https://angular.io" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
@@ -139,6 +146,7 @@
     </a>
 </p>
 
+<hr>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halsmaulmajo&show_icons=true&locale=en&layout=compact" alt="halsmaulmajo" />
 </p>
