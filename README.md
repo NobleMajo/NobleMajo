@@ -149,17 +149,19 @@
 <h3 align="left"><u>Github stats:</u></h3>
 <hr>
 <p align="center">
-  <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
+  <img align="center" style="min-width: 75%;" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
 </p>
 <p align="center">
-  <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
+  <img align="center" style="min-width: 75%;" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" width="80%" src="https://github-profile-trophy.vercel.app/?username=halsmaulmajo" alt="halsmaulmajo" />
+    <img align="center" style="min-width: 75%;" src="https://github-profile-trophy.vercel.app/?username=halsmaulmajo" alt="halsmaulmajo" />
   </a>
 </p>
 
-
+<br>
+<br>
+<br>
 cya ;3
