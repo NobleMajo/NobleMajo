@@ -1,8 +1,8 @@
 <span>
   <span align="left">
-    <img src="https://avatars.githubusercontent.com/u/39386799?s=48&v=4" alt=">" height="20" width="20"> <b style="font-size=24;">HalsMaulMajo</b>
+    <img src="https://avatars.githubusercontent.com/u/39386799?s=48&v=4" alt="HalsMaulMajo" height="40" width="40" />
   </span>
-  <img align="right" src="https://komarev.com/ghpvc/?username=halsmaulmajo&label=Profile%20views&color=0e75b6&style=flat" alt="[ALT]+[F4] / [CMD]+[Q]" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=halsmaulmajo&label=Profile%20views&color=0e75b6&style=flat" alt="[ALT]+[F4] / [CMD]+[Q]" height="40" />
 </span>
 <br>
 
