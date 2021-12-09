@@ -25,7 +25,7 @@
   🔭 I’m currently use <b>angular/nodejs+typescript</b><br>
   👨‍💻 All of my public <b>projects are available at <a href="https://projects.coreunit.net/majo">Majo's GitLab</a></b><br>
   💬 Ask me about <b>java, typescript, angular, docker, kubernetes, express.js, oop, databases</b><br>
-  📫 How to reach me <b>halsmaulmajo@coreunit.net</b><br>
+  📫 How to reach me <b>halsmaulmajo@coreunit.net</b> or <a href="https://github.com/HalsMaulMajo#connect-me">discord</a>><br>
   ⚡ My approach: <b>Every 60 seconds in africa, a minute pass!</b> Help me, we need to stop that!<br>
   
 
