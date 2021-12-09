@@ -21,10 +21,9 @@
 ![](https://img.shields.io/badge/dynamic/json?color=green&label=location&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FHalsMaulMajo)
 ![](https://komarev.com/ghpvc/?username=halsmaulmajo&label=Profile%20views&color=0e75b6&style=flat)
 
-  <br>
   <h1 align="left"><u>About me</u></h1>
   🔭 I’m currently working on [fleetform] (private)<br>
-  👨‍💻 All of my public projects are available at [https://projects.coreunit.net/majo](https://projects.coreunit.net/majo)<br>
+  👨‍💻 All of my public projects are available at <a href="https://projects.coreunit.net/majo">Majo's GitLab</a><br>
   💬 Ask me about **java, typescript, angular, docker, kubernetes, express.js, oop, databases**<br>
   📫 How to reach me **halsmaulmajo@coreunit.net**<br>
   ⚡ My approach: **Every 60 seconds in africa, a minute pass!** Help me stop that!<br>
