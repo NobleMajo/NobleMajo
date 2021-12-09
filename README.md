@@ -22,11 +22,11 @@
 ![](https://komarev.com/ghpvc/?username=halsmaulmajo&label=Profile%20views&color=0e75b6&style=flat)
 
   <h1 align="left"><u>About me</u></h1>
-  🔭 I’m currently working on [fleetform] (private)<br>
-  👨‍💻 All of my public projects are available at <a href="https://projects.coreunit.net/majo">Majo's GitLab</a><br>
-  💬 Ask me about **java, typescript, angular, docker, kubernetes, express.js, oop, databases**<br>
-  📫 How to reach me **halsmaulmajo@coreunit.net**<br>
-  ⚡ My approach: **Every 60 seconds in africa, a minute pass!** Help me stop that!<br>
+  🔭 I’m currently use <b>angular/nodejs+typescript</b><br>
+  👨‍💻 All of my public <b>projects are available at <a href="https://projects.coreunit.net/majo">Majo's GitLab</a></b><br>
+  💬 Ask me about <b>java, typescript, angular, docker, kubernetes, express.js, oop, databases</b><br>
+  📫 How to reach me <b>halsmaulmajo@coreunit.net</b><br>
+  ⚡ My approach: <b>Every 60 seconds in africa, a minute pass!** Help me stop that!</b><br>
   
 
 
