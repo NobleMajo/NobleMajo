@@ -17,7 +17,9 @@
     </h4>
   </p>
   
-
+![](https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FHalsMaulMajo)
+![](https://img.shields.io/badge/dynamic/json?color=green&label=location&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FHalsMaulMajo)
+![](https://komarev.com/ghpvc/?username=halsmaulmajo&label=Profile%20views&color=0e75b6&style=flat)
 
   <br>
   <h1 align="left"><u>About me</u></h1>
