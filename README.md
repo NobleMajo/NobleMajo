@@ -2,6 +2,8 @@
     <span align="left">
       <img src="https://avatars.githubusercontent.com/u/39386799?s=48&v=4" alt="HalsMaulMajo" height="32" />
     </span>
+    <img align="right" src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FHalsMaulMajo" alt="[ALT]+[F4] / [CMD]+[Q]"/>
+    <img align="right" src="https://img.shields.io/badge/dynamic/json?color=green&label=location&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FHalsMaulMajo" alt="[ALT]+[F4] / [CMD]+[Q]"/>
     <img align="right" src="https://komarev.com/ghpvc/?username=halsmaulmajo&label=Profile%20views&color=0e75b6&style=flat" alt="[ALT]+[F4] / [CMD]+[Q]"/>
   </span>
   <br>
@@ -17,10 +19,6 @@
     </h4>
   </p>
   
-![](https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FHalsMaulMajo)
-![](https://img.shields.io/badge/dynamic/json?color=green&label=location&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FHalsMaulMajo)
-![](https://komarev.com/ghpvc/?username=halsmaulmajo&label=Profile%20views&color=0e75b6&style=flat)
-
   <h1 align="left"><u>About me</u></h1>
   🔭 I’m currently use <b>angular/nodejs+typescript</b><br>
   👨‍💻 All of my public <b>projects are available at <a href="https://projects.coreunit.net/majo">Majo's GitLab</a></b><br>
