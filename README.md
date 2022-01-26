@@ -15,18 +15,16 @@
       A passionate fullstack developer from germany :3
     </h3>
     <h4 align="center">
-      Don't be surprised, I use my own
-      <a href="https://projects.coreunit.net/majo">gitlab</a>
-      rather than github
+      Fullstack typescript = <3
     </h4>
   </p>
   
   <h1 align="left"><u>About me</u></h1>
-  🔭 I’m currently use <b>angular/nodejs+typescript</b><br>
-  👨‍💻 All of my public <b>projects are available at <a href="https://projects.coreunit.net/majo">Majo's GitLab</a></b><br>
+  🔭 I’m currently use <b>typescript</b><br>
+  👨‍💻 My projects are <b>OpenSource</b><br>
   💬 Ask me about <b>java, typescript, angular, docker, kubernetes, express.js, oop, databases</b><br>
-  📫 How to reach me <b>halsmaulmajo@coreunit.net</b> or <a href="https://github.com/HalsMaulMajo#connect-me">discord</a>><br>
-  ⚡ My approach: <b>Every 60 seconds in africa, a minute pass!</b> Help me, we need to stop that!<br>
+  📫 How to reach me <b>halsmaulmajo@coreunit.net</b>, on discord (see below) or <a href="https://github.com/HalsMaulMajo#connect-me">here</a>><br>
+  ⚡ My approach: <b>TypeScript is love!</b><br>
   
 
 
@@ -39,7 +37,8 @@
     </span>
   </p>
   
-  <h2 align="left"><u>Some of the languages and technologies i know</u></h2>
+  <h2 align="left"><u>Langs & Techs</u></h2>
+  <b>Some</b> of the languages and technologies i used before! 
   <p align="left">
       <a href="https://angular.io" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
@@ -144,8 +143,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=halsmaulmajo&show_icons=true&locale=en&layout=compact" alt="halsmaulmajo" />
   </p>
   
-
-
   <br>
   <h1 align="left"><u>Connect me</u></h1>
   <p align="left">
@@ -167,8 +164,6 @@
     </a>
   </p>
   
-
-
   <br>
   <h1 align="left"><u>Github trophys</u></h1>
   <p align="center">
