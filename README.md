@@ -144,11 +144,7 @@
   <br>
   <h1 align="left"><u>Connect me</u></h1>
   <p align="left">
-    <a href="https://dev.to/majo418" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="40" width="40" />
-      DEV.to<br>
-    </a>
-    <a href="https://discord.gg/K4xEUce4" target="blank">
+    <a href="https://discord.gg/qePN4WUCVf" target="blank">
       <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=96" height="40" width="40" />
       Programming Discord (Admin)<br>
     </a>
@@ -160,13 +156,16 @@
       <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="40" width="40" />
       My account<br>
     </a>
+    <a href="https://dev.to/majo418" target="blank">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="40" width="40" />
+      DEV.to/majo418<br>
+    </a>
     <a href="mailto:majo@coreunit.net" target="blank">
       <img align="center" src="https://www.svgrepo.com/show/17588/mail.svg" height="40" width="40" />
       EMail<br>
     </a>
   </p>
  
-  
   <br>
   <h1 align="left"><u>Github trophys</u></h1>
   <p align="center">
