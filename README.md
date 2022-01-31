@@ -144,7 +144,7 @@
   <br>
   <h1 align="left"><u>Connect me</u></h1>
   <p align="left">
-    <a href="https://discord.gg/qePN4WUCVf" target="blank">
+    <a href="https://discord.gg/M4trSSNRVQ" target="blank">
       <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=96" height="40" width="40" />
       Programming Discord (Admin)<br>
     </a>
