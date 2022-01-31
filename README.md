@@ -1,11 +1,11 @@
 <span>
     <span align="left" width="50%">
-      <img src="https://avatars.githubusercontent.com/u/39386799?s=48&v=4" alt="HalsMaulMajo" height="32" />
+      <img src="https://avatars.githubusercontent.com/u/39386799?s=48&v=4" alt="majo418" height="32" />
     </span>
     <span width="50%">
-      <img align="right" src="https://komarev.com/ghpvc/?username=halsmaulmajo&label=Profile%20views&color=0e75b6&style=flat" alt="[ALT]+[F4] / [CMD]+[Q]"/>
-      <img align="right" src="https://img.shields.io/badge/dynamic/json?color=green&label=location&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FHalsMaulMajo" alt="[ALT]+[F4] / [CMD]+[Q]"/>
-      <img align="right" src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FHalsMaulMajo" alt="[ALT]+[F4] / [CMD]+[Q]"/>
+      <img align="right" src="https://komarev.com/ghpvc/?username=majo418&label=Profile%20views&color=0e75b6&style=flat" alt="[ALT]+[F4] / [CMD]+[Q]"/>
+      <img align="right" src="https://img.shields.io/badge/dynamic/json?color=green&label=location&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmajo418" alt="[ALT]+[F4] / [CMD]+[Q]"/>
+      <img align="right" src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmajo418" alt="[ALT]+[F4] / [CMD]+[Q]"/>
     </span>
   </span>
   <br>
@@ -23,17 +23,15 @@
   🔭 I’m currently use <b>typescript</b><br>
   👨‍💻 My projects are <b>OpenSource</b><br>
   💬 Ask me about <b>java, typescript, angular, docker, kubernetes, express.js, oop, databases</b><br>
-  📫 How to reach me <b>halsmaulmajo@coreunit.net</b>, on discord (see below) or <a href="https://github.com/HalsMaulMajo#connect-me">here</a>><br>
+  📫 How to reach me <b>majo@coreunit.net</b>, on discord (see below) or <a href="https://github.com/majo418#connect-me">here</a>><br>
   ⚡ My approach: <b>TypeScript is love!</b><br>
-  
-
 
   <br>
   <h1 align="left"><u>Github stats</u></h1>
   <p align="center">
     <span>
-       <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=halsmaulmajo&" alt="halsmaulmajo" />
-      <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=halsmaulmajo&show_icons=true&locale=en" alt="halsmaulmajo" />
+       <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=majo418&" alt="majo418" />
+      <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=majo418&show_icons=true&locale=en" alt="majo418" />
     </span>
   </p>
   
@@ -140,13 +138,13 @@
   </p>
   
   <p align="left" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=halsmaulmajo&show_icons=true&locale=en&layout=compact" alt="halsmaulmajo" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=majo418&show_icons=true&locale=en&layout=compact" alt="majo418" />
   </p>
   
   <br>
   <h1 align="left"><u>Connect me</u></h1>
   <p align="left">
-    <a href="https://dev.to/halsmaulmajo" target="blank">
+    <a href="https://dev.to/majo418" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="40" width="40" />
       DEV.to<br>
     </a>
@@ -158,7 +156,7 @@
       <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="40" width="40" />
       CoreUnit.NET Discord (Owner)<br>
     </a>
-    <a href="mailto:halsmaulmajo@coreunit.net" target="blank">
+    <a href="mailto:majo@coreunit.net" target="blank">
       <img align="center" src="https://www.svgrepo.com/show/17588/mail.svg" height="40" width="40" />
       EMail<br>
     </a>
@@ -168,7 +166,7 @@
   <h1 align="left"><u>Github trophys</u></h1>
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=halsmaulmajo" alt="halsmaulmajo" />
+      <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=majo418" alt="majo418" />
     </a>
   </p>
   
