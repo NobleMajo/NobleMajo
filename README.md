@@ -152,15 +152,20 @@
       <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=96" height="40" width="40" />
       Programming Discord (Admin)<br>
     </a>
-    <a href="https://coreunit.net/discord" target="blank">
-      <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="40" width="40" />
+     <a href="https://discord.gg/cqjF9ax" target="blank">
+      <img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=200&v=4" height="40" width="40" />
       CoreUnit.NET Discord (Owner)<br>
+    </a>
+    <a href="https://discord.com/users/422136037503008808" target="blank">
+      <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="40" width="40" />
+      My account<br>
     </a>
     <a href="mailto:majo@coreunit.net" target="blank">
       <img align="center" src="https://www.svgrepo.com/show/17588/mail.svg" height="40" width="40" />
       EMail<br>
     </a>
   </p>
+ 
   
   <br>
   <h1 align="left"><u>Github trophys</u></h1>
