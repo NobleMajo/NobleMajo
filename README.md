@@ -20,7 +20,7 @@
   </p>
   
   <h1 align="left"><u>About me</u></h1>
-  🔭 I’m currently use <b>typescript</b><br>
+  🔭 I’m currently using <b>typescript</b><br>
   👨‍💻 My projects are <b>OpenSource</b><br>
   💬 Ask me about <b>java, typescript, angular, docker, kubernetes, express.js, oop, databases</b><br>
   📫 How to reach me <b>majo@coreunit.net</b>, on discord (see below) or <a href="https://github.com/majo418#connect-me">here</a><br>
