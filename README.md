@@ -21,10 +21,10 @@
   
   <h1 align="left"><u>About me</u></h1>
   🔭 I’m currently using <b>typescript</b><br>
-  👨‍💻 My projects are <b>OpenSource</b><br>
+  👨‍💻 My hobby project is <b>CoreUnit.NET</b><br>
   💬 Ask me about <b>java, typescript, angular, docker, kubernetes, express.js, oop, databases</b><br>
-  📫 How to reach me <b>majo@coreunit.net</b>, on discord (see below) or <a href="https://github.com/majo418#connect-me">here</a><br>
-  ⚡ My approach: <b>TypeScript is love</b><br>
+  📫 How to reach me <b>Discord</b> (see below)<br>
+  ⚡ My approach: <b>learn from mistakes</b><br>
 
   <br>
   <h1 align="left"><u>Github stats</u></h1>
@@ -144,17 +144,17 @@
   <br>
   <h1 align="left"><u>Connect me</u></h1>
   <p align="left">
-    <a href="https://discord.gg/M4trSSNRVQ" target="blank">
+    <a href="https://programming.coreunit.net" target="blank">
       <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=96" height="40" width="40" />
       Programming Discord (Admin)<br>
     </a>
-     <a href="https://discord.gg/cqjF9ax" target="blank">
+     <a href="https://discord.coreunit.net" target="blank">
       <img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=200&v=4" height="40" width="40" />
       CoreUnit.NET Discord (Owner)<br>
     </a>
     <a href="https://discord.com/users/422136037503008808" target="blank">
       <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="40" width="40" />
-      My account<br>
+      My account ("majo418#1318")<br>
     </a>
     <a href="https://dev.to/majo418" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="40" width="40" />
