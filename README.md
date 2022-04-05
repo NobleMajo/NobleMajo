@@ -12,12 +12,12 @@
   
   <p>
     <h3 align="center">
-      A passionate fullstack developer from germany :3
+      A passionate fullstack wen and devops developer from germany :3
     </h3>
     <h4 align="center">
-        <a align="right" href="https://www.npmjs.com/~majo418">NPM</a>
+        <a href="https://www.npmjs.com/~majo418">NPM</a>
         |
-        <a align="right" href="https://hub.docker.com/u/majo418">DockerHub</a>  
+        <a href="https://hub.docker.com/u/majo418">DockerHub</a> 
     </h4>
   </p>
   
@@ -146,17 +146,17 @@
   <br>
   <h1 align="left"><u>Connect me</u></h1>
   <p align="left">
+    <a href="https://discord.com/users/422136037503008808" target="blank">
+      <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="40" width="40" />
+      Discord majo418#1318<br>
+    </a>
     <a href="https://programming.coreunit.net" target="blank">
       <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=96" height="40" width="40" />
-      Programming Discord (Admin)<br>
+      Programming Discord<br>
     </a>
      <a href="https://discord.coreunit.net" target="blank">
       <img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=200&v=4" height="40" width="40" />
-      CoreUnit.NET Discord (Owner)<br>
-    </a>
-    <a href="https://discord.com/users/422136037503008808" target="blank">
-      <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="40" width="40" />
-      My account ("majo418#1318")<br>
+      CoreUnit.NET Discord<br>
     </a>
     <a href="https://dev.to/majo418" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="40" width="40" />
