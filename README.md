@@ -32,7 +32,7 @@
         typescript, docker, oop,<br>
         devops, nodejs, web, cli or my projects
     </i></b><br>
-    🔗 Following me is <b><i>FREE</i></b>...
+    🔗 Following me, is for <b><i>FREE</i></b>...
 </p>
 <br>
 
