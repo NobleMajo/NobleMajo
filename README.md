@@ -22,20 +22,20 @@
 </p>
 
 <h1 align="left"><u>About me</u></h1>
-<span style="width: 20%; display: inline-block;">
-    🔭 Your welcome to follow and contact me<br>
-    🌟 Checkout my projects and leave a star<br>
-    👨‍💻 My hobby project is <b>CoreUnit.NET</b><br>
-    💬 Ask me about:<br>
-    <b><i>typescript, docker, oop, devops and my projects</i></b><br>
+<img align="right" style="width: 49%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=majo418&show_icons=true&locale=en&layout=compact" alt="majo418" />
+<p align="left">
+     ⚡ My approach: <b>learn from mistakes</b><br>
+    🌟 Checkout my <a href="https://github.com/majo418?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
     📫 How to reach me: <b><a href="https://github.com/majo418#connect-me">Connect me</a></b><br>
-    ⚡ My approach: <b>learn from mistakes</b><br>
-</span>
-<span style="width: 20%; display: inline-block;">
-<img style="width: 30%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=majo418&show_icons=true&locale=en&layout=compact" alt="majo418" />
-</span>
-
+    💬 Ask me about:
+    <b><i>
+        typescript, docker, oop,<br>
+        devops, nodejs, web, cli or my projects
+    </i></b><br>
+    🔗 Following me is <b><i>FREE</i></b>...
+</p>
 <br>
+
 <h1 align="left"><u>Github stats</u></h1>
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
