@@ -25,7 +25,7 @@
   🔭 I’m currently using <b>typescript</b><br>
   👨‍💻 My hobby project is <b>CoreUnit.NET</b><br>
   💬 Ask me about <b>java, typescript, angular, docker, kubernetes, express.js, oop, databases</b><br>
-  📫 How to reach me: <b><a href="./README.md#connect-me">Connect me</a></b><br>
+  📫 How to reach me: <b><a href="https://github.com/majo418#connect-me">Connect me</a></b><br>
   ⚡ My approach: <b>learn from mistakes</b><br>
 
   <br>
