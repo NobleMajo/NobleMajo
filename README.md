@@ -3,12 +3,16 @@
       <img src="https://avatars.githubusercontent.com/u/39386799?s=48&v=4" alt="majo418" height="32" />
     </span>
     <span width="50%">
+      <a align="right" href="https://www.npmjs.com/~majo418">NPM</a>
+      <a align="right" href="https://hub.docker.com/u/majo418">DockerHub</a>  
       <img align="right" src="https://komarev.com/ghpvc/?username=majo418&label=Profile%20views&color=0e75b6&style=flat" alt="[ALT]+[F4] / [CMD]+[Q]"/>
       <img align="right" src="https://img.shields.io/badge/dynamic/json?color=green&label=location&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmajo418" alt="[ALT]+[F4] / [CMD]+[Q]"/>
       <img align="right" src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmajo418" alt="[ALT]+[F4] / [CMD]+[Q]"/>
     </span>
   </span>
   <br>
+  
+
   
   <p>
     <h3 align="center">
