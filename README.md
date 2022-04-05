@@ -12,7 +12,7 @@
   
   <p>
     <h3 align="center">
-      A passionate fullstack wen and devops developer from germany :3
+      A passionate fullstack and devops developer from germany :3
     </h3>
     <h4 align="center">
         <a href="https://www.npmjs.com/~majo418">NPM</a>
@@ -25,7 +25,7 @@
   🔭 I’m currently using <b>typescript</b><br>
   👨‍💻 My hobby project is <b>CoreUnit.NET</b><br>
   💬 Ask me about <b>java, typescript, angular, docker, kubernetes, express.js, oop, databases</b><br>
-  📫 How to reach me <b>Discord</b> (see below)<br>
+  📫 How to reach me: <b><a href="./README.md#connect-me">Connect me</a></b><br>
   ⚡ My approach: <b>learn from mistakes</b><br>
 
   <br>
