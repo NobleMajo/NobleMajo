@@ -1,3 +1,4 @@
+<h3>@majo418</h3>
 <span>
     <span align="left" width="50%">
         <img src="https://avatars.githubusercontent.com/u/39386799?s=48&v=4" alt="majo418" height="32" />
@@ -11,14 +12,14 @@
 <br>
 
 <p>
-<h3 align="center">
+<h5 align="center">
   A passionate fullstack and devops developer from germany :3
-</h3>
-<h4 align="center">
+</h5>
+<h3 align="center">
     <a href="https://www.npmjs.com/~majo418">NPM</a>
     |
     <a href="https://hub.docker.com/u/majo418">DockerHub</a> 
-</h4>
+</h3>
 </p>
 
 <h1 align="left"><u>About me</u></h1>
@@ -26,7 +27,7 @@
 <p align="left">
      ⚡ My approach: <b>learn from mistakes</b><br>
     🌟 Checkout my <a href="https://github.com/majo418?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
-    📫 How to reach me: <b><a href="https://github.com/majo418#connect-me">Connect me</a></b><br>
+    📫 You can reach me <b><a href="https://github.com/majo418#connect-me">here</a></b><br>
     💬 Ask me about:
     <b><i>
         typescript, docker, oop,<br>
