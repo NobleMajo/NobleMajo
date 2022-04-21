@@ -201,8 +201,12 @@ __\/\\\__\/\\\__\/\\\__/\\\/////\\\___/\\_\/\\\_\//\\\__/\\\__\///////////\\\//_
 ___\/\\\__\/\\\__\/\\\_\//\\\\\\\\/\\_\//\\\\\\___\///\\\\\/_____________\/\\\________\/\\\__\///\\\\\\\\\/_
 ____\///___\///___\///___\////////\//___\//////______\/////_______________\///_________\///_____\/////////__
 ```
-                
 <br>
-<br>
-<br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418"><i>http status 418</i></a>
+<hr>
+<p align="center">
+    <a href="https://github.com/majo418?tab=repositories">projects</a> | 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">http status 418</a> | 
+    <a href="https://github.com/majo418#connect-me">contact</a> | 
+    <a href="https://github.com/majo418#langs--techs">techs</a>
+</p>
+<hr>
