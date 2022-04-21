@@ -1,4 +1,4 @@
-<h3>@majo418</h3>
+<h3>@majo<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">418</a></h3>
 <span>
     <span align="left" width="50%">
         <img src="https://avatars.githubusercontent.com/u/39386799?s=48&v=4" alt="majo418" height="32" />
@@ -149,30 +149,38 @@
 
 <br>
 <h1 align="left"><u>Connect me</u></h1>
-<p align="left">
-<a href="https://discord.com/users/422136037503008808" target="blank">
-  <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="40" width="40" />
-  Discord majo418#1318<br>
-</a>
-<a href="https://programming.coreunit.net" target="blank">
-  <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=96" height="40" width="40" />
-  Programming Discord<br>
-</a>
- <a href="https://discord.coreunit.net" target="blank">
-  <img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=200&v=4" height="40" width="40" />
-  CoreUnit.NET Discord<br>
-</a>
-<a href="https://dev.to/majo418" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="40" width="40" />
-  DEV.to/majo418<br>
-</a>
-<a href="mailto:majo@coreunit.net" target="blank">
-  <img align="center" src="https://www.svgrepo.com/show/17588/mail.svg" height="40" width="40" />
-  EMail<br>
-</a>
-</p>
+<table>
+    <thead>
+        <tr>
+            <th>logo</th>
+            <th>link</th>
+            <th>dis/advantages</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="64" width="64" alt="P" /></td>
+            <td><a href="https://programming.coreunit.net" target="blank">Programming Discord Server</a></td>
+            <td><i>admin role | ca 1500 member<i></td>
+        </tr>
+        <tr>
+            <td><img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=1024&v=4" height="64" width="64" alt="C" /></td>
+            <td><a href="https://discord.coreunit.net" target="blank">CoreUnit.NET Discord Server</a></td>
+            <td><i>manager role | ca 150 member<i></td>
+        </tr>
+        <tr>
+            <td><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" /></td>
+            <td><a href="https://discord.com/users/422136037503008808" target="blank">Discord majo418#1318</a></td>
+            <td><i>sometimes available | fast response time<i></td>
+        </tr>
+        <tr>
+            <td><img align="center" src="https://www.svgrepo.com/show/17588/mail.svg" height="64" width="64" alt="M" /></td>
+            <td><a href="mailto:majo@coreunit.net" target="blank">EMail</a></td>
+            <td><i>always available | but longer response times<i></td>
+        </tr>
+    </tbody>
+</table>
 
-<br>
 <h1 align="left"><u>Github trophys</u></h1>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -180,8 +188,21 @@
 </a>
 </p>
 
+<h1 align="left"><u>Cli ascii art</u></h1>
+                
+```sh
+__________________________________________________________________/\\\_________/\\\_____/\\\\\\\\\__________
+_____________________________________/\\\________________________/\\\\\_____/\\\\\\\___/\\\///////\\\_______
+______________________________________\///_______________________/\\\/\\\____\/////\\\__\/\\\_____\/\\\_____
+__/\\\\\__/\\\\\____/\\\\\\\\\__________/\\\_____/\\\\\_________/\\\/\/\\\________\/\\\__\///\\\\\\\\\/_____
+_/\\\///\\\\\///\\\_\////////\\\________\/\\\___/\\\///\\\_____/\\\/__\/\\\________\/\\\___/\\\///////\\\___
+_\/\\\_\//\\\__\/\\\___/\\\\\\\\\\_______\/\\\__/\\\__\//\\\__/\\\\\\\\\\\\\\\\_____\/\\\__/\\\______\//\\\_
+__\/\\\__\/\\\__\/\\\__/\\\/////\\\___/\\_\/\\\_\//\\\__/\\\__\///////////\\\//______\/\\\_\//\\\______/\\\_
+___\/\\\__\/\\\__\/\\\_\//\\\\\\\\/\\_\//\\\\\\___\///\\\\\/_____________\/\\\________\/\\\__\///\\\\\\\\\/_
+____\///___\///___\///___\////////\//___\//////______\/////_______________\///_________\///_____\/////////__
+```
+                
 <br>
 <br>
 <br>
-cya ;3
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418"><i>http status 418</i></a>
