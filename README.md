@@ -15,15 +15,14 @@
 
 <span align="left">
     <img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="majo418" height="64" />
-    <div align="center">
+    <h4 align="center">
         A passionate fullstack and devops developer from germany
-        <br>
+    </h4>
+    <h3 align="center">
         <a href="https://www.npmjs.com/~majo418">NPM</a>
         |
         <a href="https://hub.docker.com/u/majo418">DockerHub</a>
-        |
-        <a href="discord://discord.com/users/422136037503008808">Discord</a> 
-    </span>
+    </h3>
 </span>
 
 <h1 align="left"><u>About me</u></h1>
@@ -158,31 +157,36 @@
         <tr>
             <th>logo</th>
             <th>link</th>
+            <th>link 2</th>
             <th>dis/advantages</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="64" width="64" alt="P" /></td>
-            <td><a href="https://discord.com/invite/M4trSSNRVQ" target="blank">Programming Discord Server</a></td>
-            <td><a href="discord://discord.com/invite/M4trSSNRVQ" target="blank">Open in Desktop app</a></td>
-            
-            <td><i>admin role | ca 1500 member<i></td>
+            <td>
+                <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="64" width="64" alt="P" />
+            </td>
+            <td><a href="https://web.programming.coreunit.net" target="blank">Open in Browser</a></td>
+            <td><a href="https://programming.coreunit.net" target="blank">Open in Discord</a></td>
+            <td><i>admin role | ca 3000 member<i></td>
         </tr>
         <tr>
             <td><img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=1024&v=4" height="64" width="64" alt="C" /></td>
-            <td><a href="https://discord.coreunit.net" target="blank">CoreUnit.NET Discord Server</a></td>
+            <td><a href="https://web.discord.coreunit.net" target="blank">Open in Browser</a></td>
+            <td><a href="https://discord.coreunit.net" target="blank">Open in Discord</a></td>
             <td><i>manager role | ca 150 member<i></td>
         </tr>
         <tr>
             <td><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" /></td>
-            <td><a href="discord://discord.com/users/422136037503008808" target="blank">Discord majo418#1318</a></td>
-            <td><i>sometimes available | fast response time<i></td>
+            <td><a href="https://web.majo.discord.coreunit.net" target="blank">Open in Browser</a></td>
+            <td><a href="https://majo.discord.coreunit.net" target="blank">Open in Discord</a></td>
+            <td><i>often available | fast response time<i></td>
         </tr>
         <tr>
             <td><img align="center" src="https://www.svgrepo.com/show/17588/mail.svg" height="64" width="64" alt="M" /></td>
-            <td><a href="mailto:majo@coreunit.net" target="blank">EMail</a></td>
-            <td><i>always available | but longer response times<i></td>
+            <td><a href="mailto:majo418@coreunit.net" target="blank">Open in EMail App</a></td>
+            <td><a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=majo418@coreunit.net" target="blank">Open in GMail</a></td>
+            <td><i>always available | longer response times<i></td>
         </tr>
     </tbody>
 </table>
@@ -195,7 +199,6 @@
 </p>
 
 <h1 align="left"><u>Art</u></h1>
-
 
 ๖̶ζ͜͡ Majo
 ```sh
