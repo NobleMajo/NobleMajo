@@ -13,15 +13,18 @@
 </span>
 <br>
 
-<img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="majo418" height="64" />
-<div align="center">
-  A passionate fullstack and devops developer from germany :3
-</div>
-<h4 align="center">
-    <a href="https://www.npmjs.com/~majo418">NPM</a>
-    |
-    <a href="https://hub.docker.com/u/majo418">DockerHub</a> 
-</h4>
+<span align="left">
+    <img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="majo418" height="64" />
+    <div align="center">
+        A passionate fullstack and devops developer from germany
+        <br>
+        <a href="https://www.npmjs.com/~majo418">NPM</a>
+        |
+        <a href="https://hub.docker.com/u/majo418">DockerHub</a>
+        |
+        <a href="discord://discord.com/users/422136037503008808">Discord</a> 
+    </span>
+</span>
 
 <h1 align="left"><u>About me</u></h1>
 <img align="right" style="width: 49%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=majo418&show_icons=true&locale=en&layout=compact" alt="majo418" />
@@ -161,7 +164,9 @@
     <tbody>
         <tr>
             <td><img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="64" width="64" alt="P" /></td>
-            <td><a href="https://programming.coreunit.net" target="blank">Programming Discord Server</a></td>
+            <td><a href="https://discord.com/invite/M4trSSNRVQ" target="blank">Programming Discord Server</a></td>
+            <td><a href="discord://discord.com/invite/M4trSSNRVQ" target="blank">Open in Desktop app</a></td>
+            
             <td><i>admin role | ca 1500 member<i></td>
         </tr>
         <tr>
@@ -171,7 +176,7 @@
         </tr>
         <tr>
             <td><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" /></td>
-            <td><a href="https://discord.com/users/422136037503008808" target="blank">Discord majo418#1318</a></td>
+            <td><a href="discord://discord.com/users/422136037503008808" target="blank">Discord majo418#1318</a></td>
             <td><i>sometimes available | fast response time<i></td>
         </tr>
         <tr>
