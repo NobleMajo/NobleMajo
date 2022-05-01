@@ -1,26 +1,27 @@
-<h3>@majo<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">418</a></h3>
 <span>
     <span align="left" width="50%">
-        <img src="https://avatars.githubusercontent.com/u/39386799?s=48&v=4" alt="majo418" height="32" />
+        @majo<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">418</a>
     </span>
     <span width="50%">
-        <img align="right" src="https://komarev.com/ghpvc/?username=majo418&label=Profile%20views&color=0e75b6&style=flat" alt="Clicks not found"/>
-        <img align="right" src="https://img.shields.io/badge/dynamic/json?color=green&label=location&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmajo418" alt="Location not found"/>
-        <img align="right" src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmajo418" alt="Follower not found"/>
+        <img align="right" 
+             src="https://komarev.com/ghpvc/?username=majo418&label=Profile%20views&color=0e75b6&style=flat" />
+        <img align="right" 
+             src="https://img.shields.io/badge/dynamic/json?color=green&label=location&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmajo418" />
+        <img align="right" 
+             src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmajo418" />
     </span>
 </span>
 <br>
 
-<p>
-<h5 align="center">
+<img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="majo418" height="64" />
+<div align="center">
   A passionate fullstack and devops developer from germany :3
-</h5>
-<h3 align="center">
+</div>
+<h4 align="center">
     <a href="https://www.npmjs.com/~majo418">NPM</a>
     |
     <a href="https://hub.docker.com/u/majo418">DockerHub</a> 
-</h3>
-</p>
+</h4>
 
 <h1 align="left"><u>About me</u></h1>
 <img align="right" style="width: 49%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=majo418&show_icons=true&locale=en&layout=compact" alt="majo418" />
