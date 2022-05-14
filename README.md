@@ -168,13 +168,13 @@
             </td>
             <td><a href="https://web.programming.coreunit.net" target="blank">Open in Browser</a></td>
             <td><a href="https://programming.coreunit.net" target="blank">Open in Discord</a></td>
-            <td><i>admin role | ca 3000 member<i></td>
+            <td><i>admin role | ~3000 member<i></td>
         </tr>
         <tr>
             <td><img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=1024&v=4" height="64" width="64" alt="C" /></td>
             <td><a href="https://web.discord.coreunit.net" target="blank">Open in Browser</a></td>
             <td><a href="https://discord.coreunit.net" target="blank">Open in Discord</a></td>
-            <td><i>manager role | ca 150 member<i></td>
+            <td><i>manager role | ~150 member<i></td>
         </tr>
         <tr>
             <td><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" /></td>
