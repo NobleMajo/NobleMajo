@@ -31,12 +31,8 @@
     - ⚡ My approach: <b>learn from mistakes</b><br>
     - 🌟 Checkout my <a href="https://github.com/majo418?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
     - 📫 You can reach me <b><a href="https://github.com/majo418#connect-me">here</a></b><br>
-    - 💬 Ask me about:
-    <b><i>
-        typescript, docker, oop,<br>
-        devops, nodejs, web, cli or my projects
-    </i></b><br>
-    🔗 Following me, is for <b><i>FREE</i></b>...
+    - 💬 Ask me about: <b><i>typescript, docker, oop,<br>     devops, nodejs, web, cli or my projects</i></b><br>
+    - 🔗 Following me, is for <b><i>FREE</i></b>...
 </p>
 <br>
 
