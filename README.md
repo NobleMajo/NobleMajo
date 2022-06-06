@@ -147,7 +147,7 @@
 </p>
 
 <br>
-<h1 align="left"><u>Connect me</u></h1>
+<h1 align="left"><u>Contact me</u></h1>
 <table>
     <thead>
         <tr>
