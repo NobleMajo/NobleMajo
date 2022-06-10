@@ -213,7 +213,7 @@ ____\///___\///___\///___\////////\//___\//////______\/////_______________\///__
 <p align="center">
     <a href="https://github.com/majo418?tab=repositories">projects</a> | 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">http status 418</a> | 
-    <a href="https://github.com/majo418#connect-me">contact</a> | 
+    <a href="https://github.com/majo418#contect-me">contact</a> | 
     <a href="https://github.com/majo418#langs--techs">techs</a>
 </p>
 <hr>
