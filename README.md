@@ -29,9 +29,9 @@
 <img align="right" style="width: 49%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=majo418&show_icons=true&locale=en&layout=compact" alt="majo418" />
 <p align="left">
     - ⚡ My approach: <b>learn from mistakes</b><br>
-    - 🌟 Checkout my <a href="https://github.com/majo418?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
-    - 📫 You can reach me <b><a href="https://github.com/majo418#contact-me">here</a></b><br>
     - 💬 Ask me about: <b><i>typescript, docker, oop,<br>     devops, nodejs, web, cli or my projects</i></b><br>
+    - 📫 You can reach me <b><a href="https://github.com/majo418#contact-me">here</a></b><br>
+    - 🌟 Checkout my <a href="https://github.com/majo418?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
     - 🔗 Following me, is for <b><i>FREE</i></b>...
 </p>
 <br>
