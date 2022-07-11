@@ -212,8 +212,8 @@
   <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=majo418&theme=onedark" alt="majo418" />
 </a>
 </p>
-                
-<br><br><br>
+
+<br><br>
 <hr>
 <p align="center">
     <a href="https://github.com/majo418?tab=repositories">projects</a> | 
