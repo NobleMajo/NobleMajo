@@ -15,7 +15,6 @@
 <br>
 
 <span align="left">
-    <img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="majo418" height="64" />
     <h4 align="center">
         A passionate fullstack and devops developer from germany
     </h4>
@@ -26,7 +25,12 @@
     </h3>
 </span>
 
-<h1 align="left"><u>About me</u></h1>
+<h1 align="left">
+    <img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="majo418" height="32" />
+    <u>
+        About me
+    </u>
+</h1>
 <img align="right" style="width: 49%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=majo418&show_icons=true&locale=en&layout=compact&theme=onedark" alt="majo418" />
 <p align="left">
     - ⚡ My approach: <b>learn from mistakes</b><br>
