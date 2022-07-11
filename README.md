@@ -197,7 +197,7 @@
 
 <h1 align="left"><u>Activity</u></h1>
 <a href="https://github.com/majo418">
-    <img src="[pic_trulli.jpg](https://activity-graph.herokuapp.com/graph?username=majo418&theme=github)" alt="Majo's github activity graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=majo418&theme=github" alt="Majo's github activity graph">
 </a>
 
 <h1 align="left"><u>Art</u></h1>
