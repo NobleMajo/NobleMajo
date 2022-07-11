@@ -1,15 +1,17 @@
 <img src="https://raw.githubusercontent.com/majo418/majo418/main/keyboard-rgb.png" alt="Banner">
 <span>
     <span align="left">
-        @majo<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">418</a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">
+            <img src="https://img.shields.io/badge/@majo-418-purple?logo=h&logoColor=white&style=for-the-badge" alt="majo418">
+        </a>
     </span>
     <span>
         <img align="right" 
-             src="https://komarev.com/ghpvc/?username=majo418&label=Profile%20views&color=0e75b6&style=flat" />
+             src="https://komarev.com/ghpvc/?username=majo418&label=Profile%20views&color=0e75b6&style=for-the-badge" />
         <img align="right" 
-             src="https://img.shields.io/badge/dynamic/json?color=green&label=location&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmajo418" />
+             src="https://img.shields.io/badge/dynamic/json?color=green&label=location&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmajo418&style=for-the-badge" />
         <img align="right" 
-             src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmajo418" />
+             src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmajo418&style=for-the-badge" />
     </span>
 </span>
 <br>
@@ -19,9 +21,18 @@
         A passionate fullstack and devops developer from germany
     </h4>
     <h3 align="center">
-        <a href="https://www.npmjs.com/~majo418">NPM</a>
-        |
-        <a href="https://hub.docker.com/u/majo418">DockerHub</a>
+         <a href="https://web.majo.discord.coreunit.net">
+            <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="GitHub Repos">
+        </a>
+        <a href="https://www.npmjs.com/~majo418">
+            <img src="https://img.shields.io/badge/npm-a?logo=npm&logoColor=white&color=cc3630&style=for-the-badge" alt="NPM">
+        </a>
+        <a href="https://github.com/majo418?tab=repositories">
+            <img src="https://img.shields.io/badge/github-a?logo=git&logoColor=white&color=333&style=for-the-badge" alt="GitHub Repos">
+        </a>
+        <a href="https://hub.docker.com/u/majo418">
+            <img src="https://img.shields.io/badge/dockerhub-a?logo=docker&logoColor=white&color=0db7ed&style=for-the-badge" alt="DockerHub">
+        </a>
     </h3>
 </span>
 
