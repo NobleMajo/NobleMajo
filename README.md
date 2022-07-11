@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/majo418/majo418/main/keyboard-rgb.png" alt="Banner">
 <span>
     <span align="left" width="50%">
         @majo<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">418</a>
