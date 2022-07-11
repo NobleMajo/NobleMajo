@@ -213,7 +213,8 @@
 </a>
 </p>
                 
-<br><br><br><hr><br>
+<br><br><br>
+<hr>
 <p align="center">
     <a href="https://github.com/majo418?tab=repositories">projects</a> | 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">http status 418</a> | 
