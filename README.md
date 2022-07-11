@@ -26,7 +26,7 @@
 </span>
 
 <h1 align="left"><u>About me</u></h1>
-<img align="right" style="width: 49%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=majo418&show_icons=true&locale=en&layout=compact" alt="majo418" />
+<img align="right" style="width: 49%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=majo418&show_icons=true&locale=en&layout=compact&theme=onedark" alt="majo418" />
 <p align="left">
     - ⚡ My approach: <b>learn from mistakes</b><br>
     - 💬 Ask me about: <b><i>typescript, docker, oop,<br>     devops, nodejs, web, cli or my projects</i></b><br>
@@ -39,8 +39,8 @@
 <h1 align="left"><u>Github stats</u></h1>
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
-        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=majo418&" alt="majo418" />
-        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=majo418&show_icons=true&locale=en" alt="majo418" />
+        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=majo418&theme=onedark" alt="majo418" />
+        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=majo418&show_icons=true&locale=en&theme=onedark" alt="majo418" />
     </span>
 </p>
 
