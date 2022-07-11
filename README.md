@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/majo418/majo418/main/keyboard-rgb.png" alt="Banner">
 <span>
-    <span align="left" width="50%">
+    <span align="left">
         @majo<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">418</a>
     </span>
-    <span width="50%">
+    <span>
         <img align="right" 
              src="https://komarev.com/ghpvc/?username=majo418&label=Profile%20views&color=0e75b6&style=flat" />
         <img align="right" 
