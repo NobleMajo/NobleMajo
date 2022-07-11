@@ -196,7 +196,9 @@
 </p>
 
 <h1 align="left"><u>Activity</u></h1>
-[![Majo's github activity graph](https://activity-graph.herokuapp.com/graph?username=majo418&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/majo418">
+    <img src="[pic_trulli.jpg](https://activity-graph.herokuapp.com/graph?username=majo418&theme=github)" alt="Majo's github activity graph">
+</a>
 
 <h1 align="left"><u>Art</u></h1>
                 
