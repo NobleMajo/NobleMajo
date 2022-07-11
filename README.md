@@ -191,7 +191,7 @@
 <h1 align="left"><u>Github trophys</u></h1>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=majo418" alt="majo418" />
+  <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=majo418&theme=onedark" alt="majo418" />
 </a>
 </p>
 
