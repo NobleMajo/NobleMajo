@@ -37,6 +37,13 @@
 </p>
 <br>
 
+<h1 align="left"><u>Github trophys</u></h1>
+<p align="center">
+<a href="https://github.com/majo418">
+  <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=majo418&theme=onedark&row=1&column=7" alt="majo418" />
+</a>
+</p>
+
 <h1 align="left"><u>Github stats</u></h1>
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
@@ -44,6 +51,41 @@
         <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=majo418&show_icons=true&locale=en&theme=onedark" alt="majo418" />
     </span>
 </p>
+
+<h1 align="left"><u>Contact me</u></h1>
+<table>
+    <thead>
+        <tr>
+            <th>logo</th>
+            <th>link</th>
+            <th>info</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="64" width="64" alt="P" />
+            </td>
+            <td><a href="https://web.programming.coreunit.net" target="blank"> Programming! </a></td>
+            <td><i> admin role | ~3000 member <i></td>
+        </tr>
+        <tr>
+            <td><img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=1024&v=4" height="64" width="64" alt="C" /></td>
+            <td><a href="https://web.discord.coreunit.net" target="blank"> CoreUnitNET </a></td>
+            <td><i> manager role | ~150 member <i></td>
+        </tr>
+        <tr>
+            <td><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" /></td>
+            <td><a href="https://web.majo.discord.coreunit.net" target="blank"> Majo418#1318 </a></td>
+            <td><i> often available | fast response time <i></td>
+        </tr>
+        <tr>
+            <td><img align="center" src="https://www.svgrepo.com/show/17588/mail.svg" height="64" width="64" alt="M" /></td>
+            <td><a href="mailto:majo418@coreunit.net" target="blank"> majo418@coreunit.net </a></td>
+            <td><i> always available | longer response times <i></td>
+        </tr>
+    </tbody>
+</table>
 
 <h1 align="left"><u>Activity</u></h1>
 <a href="https://github.com/majo418">
@@ -166,48 +208,6 @@
                    \▓▓    ▓▓               \▓▓\▓▓▓▓▓▓ \▓▓▓▓▓▓ 
                     \▓▓▓▓▓▓                                    
 ```
-
-<h1 align="left"><u>Contact me</u></h1>
-<table>
-    <thead>
-        <tr>
-            <th>logo</th>
-            <th>link</th>
-            <th>info</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="64" width="64" alt="P" />
-            </td>
-            <td><a href="https://web.programming.coreunit.net" target="blank">Programming!</a></td>
-            <td><i>admin role | ~3000 member<i></td>
-        </tr>
-        <tr>
-            <td><img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=1024&v=4" height="64" width="64" alt="C" /></td>
-            <td><a href="https://web.discord.coreunit.net" target="blank">CoreUnitNET</a></td>
-            <td><i>manager role | ~150 member<i></td>
-        </tr>
-        <tr>
-            <td><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" /></td>
-            <td><a href="https://web.majo.discord.coreunit.net" target="blank">Majo418#1318</a></td>
-            <td><i>often available | fast response time<i></td>
-        </tr>
-        <tr>
-            <td><img align="center" src="https://www.svgrepo.com/show/17588/mail.svg" height="64" width="64" alt="M" /></td>
-            <td><a href="mailto:majo418@coreunit.net" target="blank">majo418@coreunit.net</a></td>
-            <td><i>always available | longer response times<i></td>
-        </tr>
-    </tbody>
-</table>
-
-<h1 align="left"><u>Github trophys</u></h1>
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=majo418&theme=onedark" alt="majo418" />
-</a>
-</p>
 
 <br><br>
 <hr>
