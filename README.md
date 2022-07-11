@@ -195,6 +195,9 @@
 </a>
 </p>
 
+<h1 align="left"><u>Activity</u></h1>
+[![Majo's github activity graph](https://activity-graph.herokuapp.com/graph?username=majo418&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h1 align="left"><u>Art</u></h1>
                 
 ```sh
