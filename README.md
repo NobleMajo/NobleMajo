@@ -44,8 +44,12 @@
     </span>
 </p>
 
+<h1 align="left"><u>Activity</u></h1>
+<a href="https://github.com/majo418">
+    <img src="https://activity-graph.herokuapp.com/graph?username=majo418&theme=github" alt="Majo's github activity graph">
+</a>
 
-<h2 align="left"><u>Langs & Techs</u></h2>
+<h1 align="left"><u>Langs & Techs</u></h1>
 <b>Some</b> of the languages and technologies i used before! 
 <p align="left">
   <a href="https://angular.io" target="_blank">
@@ -147,7 +151,21 @@
   </a>
 </p>
 
-<br>
+<h1 align="left"><u>Art</u></h1>
+
+```sh
+ ______ ____.  ______    __  ______  __    __   __    ______  
+|      \    \ |      \  |  \/      \   \  |  \_/  \  /      \ 
+| ▓▓▓▓▓▓\▓▓▓▓\ \▓▓▓▓▓▓\  \▓▓  ▓▓▓▓▓▓\ ▓▓  | ▓▓   ▓▓ |  ▓▓▓▓▓▓\
+| ▓▓ | ▓▓ | ▓▓/      ▓▓ |  \ ▓▓  | ▓▓ ▓▓__| ▓▓\▓▓▓▓ | ▓▓__/ ▓▓
+| ▓▓ | ▓▓ | ▓▓  ▓▓▓▓▓▓▓ | ▓▓ ▓▓__/ ▓▓ ▓▓    ▓▓ | ▓▓  >▓▓    ▓▓
+| ▓▓ | ▓▓ | ▓▓\▓▓    ▓▓ | ▓▓\▓▓    ▓▓\▓▓▓▓▓▓▓▓ | ▓▓ |  ▓▓▓▓▓▓ 
+ \▓▓  \▓▓  \▓▓ \▓▓▓▓▓▓▓ | ▓▓ \▓▓▓▓▓▓      | ▓▓_| ▓▓_| ▓▓__/ ▓▓
+                  |  \__/ ▓▓              | ▓▓   ▓▓ \\▓▓    ▓▓
+                   \▓▓    ▓▓               \▓▓\▓▓▓▓▓▓ \▓▓▓▓▓▓ 
+                    \▓▓▓▓▓▓                                    
+```
+
 <h1 align="left"><u>Contact me</u></h1>
 <table>
     <thead>
@@ -194,29 +212,8 @@
   <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=majo418&theme=onedark" alt="majo418" />
 </a>
 </p>
-
-<h1 align="left"><u>Activity</u></h1>
-<a href="https://github.com/majo418">
-    <img src="https://activity-graph.herokuapp.com/graph?username=majo418&theme=github" alt="Majo's github activity graph">
-</a>
-
-<h1 align="left"><u>Art</u></h1>
                 
-```sh
- ______ ____.  ______    __  ______  __    __   __    ______  
-|      \    \ |      \  |  \/      \   \  |  \_/  \  /      \ 
-| ▓▓▓▓▓▓\▓▓▓▓\ \▓▓▓▓▓▓\  \▓▓  ▓▓▓▓▓▓\ ▓▓  | ▓▓   ▓▓ |  ▓▓▓▓▓▓\
-| ▓▓ | ▓▓ | ▓▓/      ▓▓ |  \ ▓▓  | ▓▓ ▓▓__| ▓▓\▓▓▓▓ | ▓▓__/ ▓▓
-| ▓▓ | ▓▓ | ▓▓  ▓▓▓▓▓▓▓ | ▓▓ ▓▓__/ ▓▓ ▓▓    ▓▓ | ▓▓  >▓▓    ▓▓
-| ▓▓ | ▓▓ | ▓▓\▓▓    ▓▓ | ▓▓\▓▓    ▓▓\▓▓▓▓▓▓▓▓ | ▓▓ |  ▓▓▓▓▓▓ 
- \▓▓  \▓▓  \▓▓ \▓▓▓▓▓▓▓ | ▓▓ \▓▓▓▓▓▓      | ▓▓_| ▓▓_| ▓▓__/ ▓▓
-                  |  \__/ ▓▓              | ▓▓   ▓▓ \\▓▓    ▓▓
-                   \▓▓    ▓▓               \▓▓\▓▓▓▓▓▓ \▓▓▓▓▓▓ 
-                    \▓▓▓▓▓▓                                    
-```
-                
-<br>
-<hr>
+<br><br><br><hr><br>
 <p align="center">
     <a href="https://github.com/majo418?tab=repositories">projects</a> | 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">http status 418</a> | 
