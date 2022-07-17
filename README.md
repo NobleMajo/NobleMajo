@@ -52,6 +52,8 @@
 </p>
 <br>
 
+In this readme file I have `hidden` a small `riddle` with a secret message. `Good luck!`
+
 <h1 align="left"><u>Github trophys</u></h1>
 <p align="center">
 <a href="https://github.com/majo418">
@@ -222,7 +224,6 @@
                   |  \__/ ▓▓              | ▓▓   ▓▓ \\▓▓    ▓▓
                    \▓▓    ▓▓               \▓▓\▓▓▓▓▓▓ \▓▓▓▓▓▓ 
                     \▓▓▓▓▓▓                                    
-aHR0cCBzdGF0dXM6IDQxOCBJJ20gYSB0ZWFwb3Q=
 ```
 
 <br><br>
