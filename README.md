@@ -1,11 +1,10 @@
 <img src="https://raw.githubusercontent.com/majo418/majo418/main/keyboard-rgb.png" alt="Banner">
+
 <span>
     <span align="left">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">
             <img src="https://img.shields.io/badge/@majo-418-purple?logo=h&logoColor=white&style=for-the-badge" alt="majo418">
         </a>
-    </span>
-    <span>
         <img align="right" 
              src="https://komarev.com/ghpvc/?username=majo418&label=Profile%20views&color=0e75b6&style=for-the-badge" />
         <img align="right" 
