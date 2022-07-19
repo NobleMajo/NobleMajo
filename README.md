@@ -15,6 +15,10 @@
 </span>
 <br>
 
+<form action="/users/follow?target=majo418" accept-charset="UTF-8" method="post">
+        <input type="submit" name="commit" value="Follow" title="Follow majo418" aria-label="Follow majo418">
+</form>
+
 <span align="left">
     <h4 align="center">
         A passionate fullstack and devops developer from germany
