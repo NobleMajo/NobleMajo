@@ -17,7 +17,7 @@
 
 <span align="left">
     <h4 align="center">
-        A passionate fullstack and devops developer from germany
+        A passionate fullstack and devops typescript engineer from germany
     </h4>
     <h3 align="center">
          <a href="https://web.majo.discord.coreunit.net">
