@@ -1,16 +1,16 @@
-<img src="https://raw.githubusercontent.com/majo418/majo418/main/keyboard-rgb.png" alt="Banner">
+<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/keyboard-rgb.png" alt="Banner">
 
 <span>
     <span align="left">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">
-            <img src="https://img.shields.io/badge/@majo-418-purple?logo=h&logoColor=white&style=for-the-badge" alt="majo418">
+            <img src="https://img.shields.io/badge/@majo-418-purple?logo=h&logoColor=white&style=for-the-badge" alt="NobleMajo">
         </a>
         <img align="right" 
-             src="https://komarev.com/ghpvc/?username=majo418&label=Visitors&color=0e75b6&style=for-the-badge" />
+             src="https://komarev.com/ghpvc/?username=NobleMajo&label=Visitors&color=0e75b6&style=for-the-badge" />
         <img align="right" 
-             src="https://img.shields.io/badge/dynamic/json?color=green&label=loc&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmajo418&style=for-the-badge" />
+             src="https://img.shields.io/badge/dynamic/json?color=green&label=loc&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
         <img align="right" 
-             src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmajo418&style=for-the-badge" />
+             src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
     </span>
 </span>
 <br>
@@ -23,30 +23,30 @@
          <a href="https://web.majo.discord.coreunit.net">
             <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="GitHub Repos">
         </a>
-        <a href="https://www.npmjs.com/~majo418">
+        <a href="https://www.npmjs.com/~NobleMajo">
             <img src="https://img.shields.io/badge/npm-a?logo=npm&logoColor=white&color=cc3630&style=for-the-badge" alt="NPM">
         </a>
-        <a href="https://github.com/majo418?tab=repositories">
+        <a href="https://github.com/NobleMajo?tab=repositories">
             <img src="https://img.shields.io/badge/github-a?logo=git&logoColor=white&color=333&style=for-the-badge" alt="GitHub Repos">
         </a>
-        <a href="https://hub.docker.com/u/majo418">
+        <a href="https://hub.docker.com/u/NobleMajo">
             <img src="https://img.shields.io/badge/dockerhub-a?logo=docker&logoColor=white&color=0db7ed&style=for-the-badge" alt="DockerHub">
         </a>
     </h3>
 </span>
 
 <h1 align="left">
-    <img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="majo418" height="32" />
+    <img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="NobleMajo" height="32" />
     <u>
         About me
     </u>
 </h1>
-<img align="right" style="width: 49%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=majo418&show_icons=true&locale=en&layout=compact&theme=onedark" alt="majo418" />
+<img align="right" style="width: 49%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
 <p align="left">
     - ⚡ My approach: <b>learn from mistakes</b><br>
     - 💬 Ask me about: <b><i>typescript, docker, oop,<br>     devops, nodejs, web, cli or my projects</i></b><br>
-    - 📫 You can reach me <b><a href="https://github.com/majo418#contact-me">here</a></b><br>
-    - 🌟 Checkout my <a href="https://github.com/majo418?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
+    - 📫 You can reach me <b><a href="https://github.com/NobleMajo#contact-me">here</a></b><br>
+    - 🌟 Checkout my <a href="https://github.com/NobleMajo?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
     - 🔗 Following me, is for <b><i>FREE</i></b>...
 </p>
 <br>
@@ -55,16 +55,16 @@ In this readme file I have `hidden` a little `riddle` with a secret message. `Go
 
 <h1 align="left"><u>Github trophys</u></h1>
 <p align="center">
-<a href="https://github.com/majo418">
-  <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=majo418&theme=onedark&row=1&column=7" alt="majo418" />
+<a href="https://github.com/NobleMajo">
+  <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=NobleMajo&theme=onedark&row=1&column=7" alt="NobleMajo" />
 </a>
 </p>
 
 <h1 align="left"><u>Github stats</u></h1>
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
-        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=majo418&theme=onedark" alt="majo418" />
-        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=majo418&show_icons=true&locale=en&theme=onedark" alt="majo418" />
+        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=NobleMajo&theme=onedark" alt="NobleMajo" />
+        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=NobleMajo&show_icons=true&locale=en&theme=onedark" alt="NobleMajo" />
     </span>
 </p>
 
@@ -92,20 +92,20 @@ In this readme file I have `hidden` a little `riddle` with a secret message. `Go
         </tr>
         <tr>
             <td><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" /></td>
-            <td><a href="https://web.majo.discord.coreunit.net" target="blank"> Majo418#1318 </a></td>
+            <td><a href="https://web.majo.discord.coreunit.net" target="blank"> NobleMajo#9999 </a></td>
             <td><i> often available | fast response time <i></td>
         </tr>
         <tr>
             <td><img align="center" src="https://www.svgrepo.com/show/17588/mail.svg" height="64" width="64" alt="M" /></td>
-            <td><a href="mailto:majo418@coreunit.net" target="blank"> majo418@coreunit.net </a></td>
+            <td><a href="mailto:majo@coreunit.net" target="blank"> majo@coreunit.net </a></td>
             <td><i> always available | longer response times <i></td>
         </tr>
     </tbody>
 </table>
 
 <h1 align="left"><u>Activity</u></h1>
-<a href="https://github.com/majo418">
-    <img src="https://activity-graph.herokuapp.com/graph?username=majo418&theme=github" alt="Majo's github activity graph">
+<a href="https://github.com/NobleMajo">
+    <img src="https://activity-graph.herokuapp.com/graph?username=NobleMajo&theme=github" alt="Majo's github activity graph">
 </a>
 
 <h1 align="left"><u>Langs & Techs</u></h1>
@@ -228,10 +228,10 @@ In this readme file I have `hidden` a little `riddle` with a secret message. `Go
 <br><br>
 <hr>
 <p align="center">
-    <a href="https://github.com/majo418?tab=repositories">projects</a> | 
+    <a href="https://github.com/NobleMajo?tab=repositories">projects</a> | 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">http status 418</a> | 
-    <a href="https://github.com/majo418#contect-me">contact</a> | 
-    <a href="https://github.com/majo418#langs--techs">techs</a>
+    <a href="https://github.com/NobleMajo#contect-me">contact</a> | 
+    <a href="https://github.com/NobleMajo#langs--techs">techs</a>
 </p>
 <hr>
 <!-- *UmV2ZXJzZWQgc3RyaW5nOiBnSWx4bWU2VkhjZ0lXZG9SWGFuQmljMTlXZWdRV1oyeDJiekJTWjJG R2Fna2tJZ29EWnk5Mll6bEdaZzQyYmdVV2JnVUdkcEozVg==* -->
