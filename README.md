@@ -2,9 +2,7 @@
 
 <span>
     <span align="left">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">
-            <img src="https://img.shields.io/badge/@majo-418-purple?logo=h&logoColor=white&style=for-the-badge" alt="NobleMajo">
-        </a>
+         <img src="https://img.shields.io/badge/@Noble-Majo-purple?logo=h&logoColor=white&style=for-the-badge" alt="NobleMajo">
         <img align="right" 
              src="https://komarev.com/ghpvc/?username=NobleMajo&label=Visitors&color=0e75b6&style=for-the-badge" />
         <img align="right" 
