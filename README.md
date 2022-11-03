@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/keyboard-rgb.png" alt="Banner">
+<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/keyboard-rgb.png" alt="Imagine here would be a beautiful banner...">
 
 <span>
     <span align="left">
@@ -220,6 +220,8 @@
                    \▓▓    ▓▓               \▓▓\▓▓▓▓▓▓ \▓▓▓▓▓▓ 
                     \▓▓▓▓▓▓                                    
 ```
+
+<img src="https://github.com/NobleMajo/NobleMajo/blob/main/oil-painting.png?raw=true" alt="Imagine here would be a beautiful banner...">
 
 <br><br>
 <hr>
