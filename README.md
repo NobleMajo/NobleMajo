@@ -30,6 +30,9 @@
         <a href="https://hub.docker.com/u/NobleMajo">
             <img src="https://img.shields.io/badge/dockerhub-a?logo=docker&logoColor=white&color=0db7ed&style=for-the-badge" alt="DockerHub">
         </a>
+         <a href="https://www.twitch.tv/noblemajo">
+            <img src="https://img.shields.io/badge/dockerhub-a?logo=twitch&logoColor=white&color=B983F6&style=for-the-badge" alt="Twitch">
+        </a>
     </h3>
 </span>
 
