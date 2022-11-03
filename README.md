@@ -51,8 +51,6 @@
 </p>
 <br>
 
-In this readme file I have `hidden` a little `riddle` with a secret message. `Good luck!`
-
 <h1 align="left"><u>Github trophys</u></h1>
 <p align="center">
 <a href="https://github.com/NobleMajo">
