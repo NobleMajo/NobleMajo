@@ -18,20 +18,17 @@
         A passionate fullstack and devops typescript engineer from germany
     </h4>
     <h3 align="center">
+        <a href="https://www.twitch.tv/noblemajo">
+            <img src="https://img.shields.io/badge/Twitch-a?logo=twitch&logoColor=white&color=B983F6&style=for-the-badge" alt="Twitch">
+        </a>
          <a href="https://web.majo.discord.coreunit.net">
             <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="GitHub Repos">
         </a>
         <a href="https://www.npmjs.com/~NobleMajo">
             <img src="https://img.shields.io/badge/npm-a?logo=npm&logoColor=white&color=cc3630&style=for-the-badge" alt="NPM">
         </a>
-        <a href="https://github.com/NobleMajo?tab=repositories">
-            <img src="https://img.shields.io/badge/github-a?logo=git&logoColor=white&color=333&style=for-the-badge" alt="GitHub Repos">
-        </a>
         <a href="https://hub.docker.com/u/NobleMajo">
             <img src="https://img.shields.io/badge/dockerhub-a?logo=docker&logoColor=white&color=0db7ed&style=for-the-badge" alt="DockerHub">
-        </a>
-         <a href="https://www.twitch.tv/noblemajo">
-            <img src="https://img.shields.io/badge/Twitch-a?logo=twitch&logoColor=white&color=B983F6&style=for-the-badge" alt="Twitch">
         </a>
     </h3>
 </span>
