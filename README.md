@@ -206,7 +206,7 @@
   </a>
 </p>
 
-<h1 align="left"><u>My Art</u></h1>
+<h1 align="left"><u>My art</u></h1>
 
 <img src="https://github.com/NobleMajo/NobleMajo/blob/main/oil-painting.png?raw=true" alt="Imagine here would be a beautiful painting...">
 
