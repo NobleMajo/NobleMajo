@@ -99,7 +99,7 @@
     </tbody>
 </table>
 
-<h1 align="left"><u>Activity</u></h1>
+<h1 align="left"><u>GitHub activity</u></h1>
 <a href="https://github.com/NobleMajo">
     <img src="https://activity-graph.herokuapp.com/graph?username=NobleMajo&theme=github" alt="Majo's github activity graph">
 </a>
