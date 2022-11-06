@@ -206,7 +206,10 @@
   </a>
 </p>
 
-<h1 align="left"><u>Art</u></h1>
+<h1 align="left"><u>My Art</u></h1>
+
+<img src="https://github.com/NobleMajo/NobleMajo/blob/main/oil-painting.png?raw=true" alt="Imagine here would be a beautiful painting...">
+
 
 ```sh
  ______ ____.  ______    __  ______  __    __   __    ______  
@@ -219,10 +222,8 @@
                   |  \__/ ▓▓              | ▓▓   ▓▓ \\▓▓    ▓▓
                    \▓▓    ▓▓               \▓▓\▓▓▓▓▓▓ \▓▓▓▓▓▓ 
                     \▓▓▓▓▓▓                                    
-```
-
-<img src="https://github.com/NobleMajo/NobleMajo/blob/main/oil-painting.png?raw=true" alt="Imagine here would be a beautiful painting...">
-
+```            
+                
 <img src="https://github.com/NobleMajo/NobleMajo/blob/main/cunet_3d_wp3.png?raw=true" alt="Imagine here would be a beautiful CoreUnit.NET wallpaper...">
 
 <br><br>
