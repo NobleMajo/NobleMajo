@@ -21,17 +21,17 @@
         <a href="https://www.twitch.tv/noblemajo">
             <img src="https://img.shields.io/badge/Twitch-a?logo=twitch&logoColor=white&color=B983F6&style=for-the-badge" alt="Twitch">
         </a>
-         <a href="https://discord.com/invite/pwHNaHRa9W">
+        <a href="https://discord.com/invite/pwHNaHRa9W">
             <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="Discord Server">
-        </a>
-         <a href="https://discord.com/invite/pwHNaHRa9W">
-            <img src="https://img.shields.io/badge/youtube-a?logo=youtube&color=FF1616&logoColor=white&style=for-the-badge" alt="YouTube">
         </a>
         <a href="https://www.npmjs.com/~NobleMajo">
             <img src="https://img.shields.io/badge/npm-a?logo=npm&logoColor=white&color=cc3630&style=for-the-badge" alt="NPM">
         </a>
         <a href="https://hub.docker.com/u/NobleMajo">
             <img src="https://img.shields.io/badge/dockerhub-a?logo=docker&logoColor=white&color=0db7ed&style=for-the-badge" alt="DockerHub">
+        </a>
+        <a href="https://discord.com/invite/pwHNaHRa9W">
+            <img src="https://img.shields.io/badge/youtube-a?logo=youtube&color=FF1616&logoColor=white&style=for-the-badge" alt="YouTube">
         </a>
     </h3>
 </span>
