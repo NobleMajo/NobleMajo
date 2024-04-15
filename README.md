@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background" style="width: 100%">
+<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background" style="width: 30%; margin-left: auto; margin-right: auto;">
 
 <span>
     <span align="left">
@@ -24,10 +24,10 @@
         <a href="https://discord.com/invite/pwHNaHRa9W">
             <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="Discord Server">
         </a>
-        <a href="https://www.npmjs.com/~majo418">
+        <a href="https://www.npmjs.com/~noblemajo">
             <img src="https://img.shields.io/badge/npm-a?logo=npm&logoColor=white&color=cc3630&style=for-the-badge" alt="NPM">
         </a>
-        <a href="https://hub.docker.com/u/majo418">
+        <a href="https://hub.docker.com/u/noblemajo">
             <img src="https://img.shields.io/badge/dockerhub-a?logo=docker&logoColor=white&color=0db7ed&style=for-the-badge" alt="DockerHub">
         </a>
         <a href="https://www.youtube.com/@noblemajo">
@@ -67,8 +67,6 @@
     </span>
 </p>
 
-<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="NobleMajo Avatar with dark background" style="width: 50%; margin-line: 25%">
-
 <h1 align="left"><u>Contact me</u></h1>
 <table>
     <thead>
@@ -103,6 +101,8 @@
         </tr>
     </tbody>
 </table>
+
+<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="NobleMajo Avatar with dark background" style="width: 50%; margin-left: auto; margin-right: auto;">
 
 <h1 align="left"><u>GitHub activity</u></h1>
 <a href="https://github.com/NobleMajo">
