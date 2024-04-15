@@ -220,4 +220,3 @@
     <a href="https://github.com/NobleMajo#langs--techs">techs</a>
 </p>
 <hr>
-<!-- *UmV2ZXJzZWQgc3RyaW5nOiBnSWx4bWU2VkhjZ0lXZG9SWGFuQmljMTlXZWdRV1oyeDJiekJTWjJG R2Fna2tJZ29EWnk5Mll6bEdaZzQyYmdVV2JnVUdkcEozVg==* -->
