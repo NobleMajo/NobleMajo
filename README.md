@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background">
+<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background" style="width: 100%">
 
 <span>
     <span align="left">
@@ -67,7 +67,7 @@
     </span>
 </p>
 
-<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="NobleMajo Avatar with dark background">
+<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="NobleMajo Avatar with dark background" style="width: 50%; margin-line: 25%">
 
 <h1 align="left"><u>Contact me</u></h1>
 <table>
