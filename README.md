@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/keyboard-rgb.png" alt="Imagine here would be a beautiful banner...">
+<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background">
 
 <span>
     <span align="left">
@@ -66,6 +66,8 @@
         <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=NobleMajo&show_icons=true&locale=en&theme=onedark" alt="NobleMajo" />
     </span>
 </p>
+
+<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="NobleMajo Avatar with dark background">
 
 <h1 align="left"><u>Contact me</u></h1>
 <table>
@@ -208,26 +210,6 @@
           height="80" />
   </a>
 </p>
-
-<h1 align="left"><u>My art</u></h1>
-
-<img src="https://github.com/NobleMajo/NobleMajo/blob/main/oil-painting.png?raw=true" alt="Imagine here would be a beautiful painting...">
-
-
-```sh
- ______ ____.  ______    __  ______  __    __   __    ______  
-|      \    \ |      \  |  \/      \   \  |  \_/  \  /      \ 
-| ▓▓▓▓▓▓\▓▓▓▓\ \▓▓▓▓▓▓\  \▓▓  ▓▓▓▓▓▓\ ▓▓  | ▓▓   ▓▓ |  ▓▓▓▓▓▓\
-| ▓▓ | ▓▓ | ▓▓/      ▓▓ |\ \ ▓▓  | ▓▓ ▓▓__| ▓▓\▓▓▓▓ | ▓▓__| ▓▓
-| ▓▓ | ▓▓ | ▓▓  ▓▓▓▓▓▓▓ | ▓▓ ▓▓__| ▓▓ ▓▓    ▓▓ | ▓▓  >▓▓    ▓▓
-| ▓▓ | ▓▓ | ▓▓\▓▓    ▓▓ | ▓▓\▓▓    ▓▓\▓▓▓▓▓▓▓▓ | ▓▓ |  ▓▓▓▓▓▓ 
- \▓▓  \▓▓  \▓▓ \▓▓▓▓▓▓▓ | ▓▓ \▓▓▓▓▓▓      | ▓▓_| ▓▓_| ▓▓__| ▓▓
-                  |  \__/ ▓▓              | ▓▓   ▓▓ \\▓▓    ▓▓
-                   \▓▓    ▓▓               \▓▓\▓▓▓▓▓▓ \▓▓▓▓▓▓ 
-                    \▓▓▓▓▓▓                                    
-```            
-                
-<img src="https://github.com/NobleMajo/NobleMajo/blob/main/cunet_3d_wp3.png?raw=true" alt="Imagine here would be a beautiful CoreUnit.NET wallpaper...">
 
 <br><br>
 <hr>
