@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background" style="width: 30%; margin-left: auto; margin-right: auto;">
+<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background" style="height: 20vw; width: 100%; object-fit: cover; max-width: 100%;" />
 
 <span>
     <span align="left">
@@ -102,7 +102,13 @@
     </tbody>
 </table>
 
-<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="NobleMajo Avatar with dark background" style="width: 50%; margin-left: auto; margin-right: auto;">
+<p align="center" style="width: 100%;">
+    <span style="width: 100%;">
+        <img align="left" style="width: 25%;" />
+        <img align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="NobleMajo Avatar with dark background" style="width: 49%;" />
+        <img align="right" style="width: 25%;" />
+    </span>
+</p>
 
 <h1 align="left"><u>GitHub activity</u></h1>
 <a href="https://github.com/NobleMajo">
