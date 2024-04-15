@@ -1,4 +1,10 @@
-<img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background" style="height: 20vw; width: 100%; object-fit: cover;" />
+<style>
+.cropimg {
+object-fit: cover;
+}
+</style>
+
+<img class="cropimg" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background" style="height: 20vw; width: 100%; object-fit: cover;" />
 
 <span>
     <span align="left">
@@ -105,7 +111,7 @@
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
         <img align="left" style="width: 25%;" />
-        <img align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="NobleMajo Avatar with dark background" style="width: 49%; height: 20vw; object-fit: cover;" />
+        <img class="cropimg" align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="NobleMajo Avatar with dark background" style="width: 49%; height: 20vw; object-fit: cover;" />
         <img align="right" style="width: 25%;" />
     </span>
 </p>
