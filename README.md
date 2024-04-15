@@ -82,22 +82,17 @@
                 <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="64" width="64" alt="P" />
             </td>
             <td><a href="https://web.programming.coreunit.net" target="blank"> Programming! </a></td>
-            <td><i> admin role | ~3000 member <i></td>
+            <td><i>Im one of the 3 Admins of a ~3000 member developer discord server<i></td>
         </tr>
         <tr>
             <td><img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=1024&v=4" height="64" width="64" alt="C" /></td>
             <td><a href="https://web.discord.coreunit.net" target="blank"> CoreUnitNET </a></td>
-            <td><i> manager role | ~150 member <i></td>
+            <td><i>There are updates and direct contact on my server<i></td>
         </tr>
         <tr>
             <td><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" /></td>
-            <td><a href="https://web.majo.discord.coreunit.net" target="blank"> NobleMajo#9999 </a></td>
-            <td><i> often available | fast response time <i></td>
-        </tr>
-        <tr>
-            <td><img align="center" src="https://www.svgrepo.com/show/17588/mail.svg" height="64" width="64" alt="M" /></td>
-            <td><a href="mailto:majo@coreunit.net" target="blank"> majo@coreunit.net </a></td>
-            <td><i> always available | longer response times <i></td>
+            <td><a href="https://discord.com/users/422136037503008808" target="blank"> noblemajo </a></td>
+            <td><i>I can be reached here often and quickly<i></td>
         </tr>
     </tbody>
 </table>
