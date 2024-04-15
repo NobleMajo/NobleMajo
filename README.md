@@ -99,8 +99,13 @@
         </tr>
         <tr>
             <td><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" /></td>
-            <td><a href="https://discord.com/users/422136037503008808" target="blank"> noblemajo </a></td>
-            <td><i>I can be reached here often and quickly<i></td>
+            <td><a href="https://discord.com/users/422136037503008808" target="blank">Discord Direct</a></td>
+            <td><i>I can be reached here often<i></td>
+        </tr>
+        <tr>
+            <td><img align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/telegram-icon.png" height="64" width="64" alt="D" /></td>
+            <td><a href="https://telegram.me/NobleMajo" target="blank">Telegram Direct</a></td>
+            <td><i>I can be reached here quickly<i></td>
         </tr>
     </tbody>
 </table>
