@@ -45,7 +45,7 @@
 <img align="right" style="width: 49%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
 <p align="left">
     - ⚡ My approach: <b>learn from mistakes</b><br>
-    - 💬 Ask me about: <b><i>typescript, docker, oop,<br>     devops, nodejs, web, cli or my projects</i></b><br>
+    - 💬 Ask me about: <b><i>typescript, docker, <br> devops, nodejs, web, cli or my projects</i></b><br>
     - 📫 You can reach me <b><a href="https://github.com/NobleMajo#contact-me">here</a></b><br>
     - 🌟 Checkout my <a href="https://github.com/NobleMajo?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
     - 🔗 Following me, is for <b><i>FREE</i></b>...
