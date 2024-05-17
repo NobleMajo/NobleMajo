@@ -54,6 +54,9 @@
 
 <h1 align="left"><u>Github stats</u></h1>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
         <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=NobleMajo&theme=onedark" alt="NobleMajo" />
@@ -61,14 +64,13 @@
     </span>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+<!--
 <p align="center">
 <a href="https://github.com/NobleMajo">
   <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=NobleMajo&theme=onedark&row=1&column=7" alt="NobleMajo" />
 </a>
 </p>
+-->
 
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
