@@ -52,19 +52,22 @@
 </p>
 <br>
 
-<h1 align="left"><u>Github trophys</u></h1>
-<p align="center">
-<a href="https://github.com/NobleMajo">
-  <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=NobleMajo&theme=onedark&row=1&column=7" alt="NobleMajo" />
-</a>
-</p>
-
 <h1 align="left"><u>Github stats</u></h1>
+
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
         <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=NobleMajo&theme=onedark" alt="NobleMajo" />
         <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=NobleMajo&show_icons=true&locale=en&theme=onedark" alt="NobleMajo" />
     </span>
+</p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<p align="center">
+<a href="https://github.com/NobleMajo">
+  <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=NobleMajo&theme=onedark&row=1&column=7" alt="NobleMajo" />
+</a>
 </p>
 
 <p align="center" style="width: 100%;">
@@ -76,6 +79,7 @@
 </p>
 
 <h1 align="left"><u>Contact me</u></h1>
+
 <table>
     <thead>
         <tr>
@@ -162,10 +166,6 @@
     </a>
     <a href="https://golang.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
-    width="92" height="92" />
-    </a>
-    <a href="https://github.com/NobleMajo" target="_blank">
-    <img src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="nginx"
     width="92" height="92" />
     </a>
 </p>
