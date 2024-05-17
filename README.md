@@ -3,10 +3,10 @@
 <span>
     <span align="left">
          <img src="https://img.shields.io/badge/@Noble-Majo-purple?logo=h&logoColor=white&style=for-the-badge" alt="NobleMajo">
+        <img align="left" 
+             src="https://img.shields.io/badge/dynamic/json?color=green&label=Region&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
         <img align="right" 
              src="https://komarev.com/ghpvc/?username=NobleMajo&label=Guests&color=0e75b6&style=for-the-badge" />
-        <img align="right" 
-             src="https://img.shields.io/badge/dynamic/json?color=green&label=Region&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
         <img align="right" 
              src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
     </span>
