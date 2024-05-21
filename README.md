@@ -15,7 +15,7 @@
 
 <span align="left">
     <h4 align="center">
-        A passionate fullstack and devops typescript engineer from germany
+        A passionate fullstack typescript and devops engineer from germany
     </h4>
     <h3 align="center">
         <a href="https://www.twitch.tv/noblemajo">
