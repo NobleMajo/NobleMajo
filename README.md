@@ -21,7 +21,7 @@
         <a href="https://www.twitch.tv/noblemajo">
             <img src="https://img.shields.io/badge/Twitch-a?logo=twitch&logoColor=white&color=B983F6&style=for-the-badge" alt="Twitch">
         </a>
-        <a href="https://discord.com/invite/pwHNaHRa9W">
+        <a href="https://discord.com/invite/GJSbyJ5Jpe">
             <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="Discord Server">
         </a>
         <a href="https://www.npmjs.com/~noblemajo">
