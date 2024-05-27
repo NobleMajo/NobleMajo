@@ -36,8 +36,6 @@
         <a href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
             <img src="https://img.shields.io/badge/spotify-a?logo=youtube&color=21D05D&logoColor=white&style=for-the-badge" alt="Spotify">
         </a>
-
-        https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa
     </h3>
 </span>
 
