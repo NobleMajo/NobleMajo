@@ -173,6 +173,10 @@
     </a>
 </p>
 
+<h1 align="left"><u>Recently played</u></h1>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ps5lujrgihfsl2db4rn5gpiiqa&cover_image=true&theme=default&show_offline=false&background_color=2e2f38&interchange=false&bar_color=0D1117&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 <br><br>
 <hr>
 <p align="center">
