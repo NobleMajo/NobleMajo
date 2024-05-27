@@ -33,6 +33,11 @@
         <a href="https://www.youtube.com/@noblemajo">
             <img src="https://img.shields.io/badge/youtube-a?logo=youtube&color=FF1616&logoColor=white&style=for-the-badge" alt="YouTube">
         </a>
+        <a href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
+            <img src="https://img.shields.io/badge/spotify-a?logo=youtube&color=FF1616&logoColor=white&style=for-the-badge" alt="Spotify">
+        </a>
+
+        https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa
     </h3>
 </span>
 
@@ -173,9 +178,9 @@
     </a>
 </p>
 
-<h1 align="left"><u>Recently played</u></h1>
+<h1 align="left"><u>Spotify Music</u></h1>
 <p>
-    <a href="https://github.com/kittinan/spotify-github-profile">
+    <a href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ps5lujrgihfsl2db4rn5gpiiqa&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=0D1117&amp;interchange=false&amp;bar_color=53b14f&amp;bar_color_cover=false" alt="spotify-github-profile">
     </a>
 </p>
