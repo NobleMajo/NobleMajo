@@ -174,8 +174,11 @@
 </p>
 
 <h1 align="left"><u>Recently played</u></h1>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ps5lujrgihfsl2db4rn5gpiiqa&cover_image=true&theme=default&show_offline=false&background_color=2e2f38&interchange=false&bar_color=0D1117&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<p>
+    <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ps5lujrgihfsl2db4rn5gpiiqa&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=0D1117&amp;interchange=false&amp;bar_color=53b14f&amp;bar_color_cover=false" alt="spotify-github-profile">
+    </a>
+</p>
 
 <br><br>
 <hr>
