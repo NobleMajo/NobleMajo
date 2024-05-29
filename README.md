@@ -119,8 +119,8 @@
 </table>
 
 <h1 align="left"><u>Recommendations</u></h1>
-Some Technologies that I use and can recommend.
-Has no particular order and I have tested far more.
+Some Technologies that I use and can recommend.<br>
+Has no particular order and I have tested far more.<br>
 
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank">
