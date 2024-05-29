@@ -1,43 +1,41 @@
+
+<div style="width: 100%;" align="center">
+    <img align="left" src="https://img.shields.io/badge/@Noble-Majo-purple?logo=h&logoColor=white&style=for-the-badge" alt="NobleMajo">
+    <img align="left" 
+         src="https://img.shields.io/badge/dynamic/json?color=green&label=Region&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
+    <img align="right" 
+         src="https://komarev.com/ghpvc/?username=NobleMajo&label=Guests&color=0e75b6&style=for-the-badge" />
+    <img align="right" 
+         src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
+</div>
+
 <img class="cropimg" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background" style="width: 100%;" />
 
-<span>
-    <span align="left">
-        <img align="left" src="https://img.shields.io/badge/@Noble-Majo-purple?logo=h&logoColor=white&style=for-the-badge" alt="NobleMajo">
-        <img align="left" 
-             src="https://img.shields.io/badge/dynamic/json?color=green&label=Region&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
-        <img align="right" 
-             src="https://komarev.com/ghpvc/?username=NobleMajo&label=Guests&color=0e75b6&style=for-the-badge" />
-        <img align="right" 
-             src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
-    </span>
-</span>
-<br>
+<h4 style="width: 100%;" align="center">
+    A passionate fullstack typescript and devops engineer from germany
+</h4>
 
-<span align="left">
-    <h4 align="center">
-        A passionate fullstack typescript and devops engineer from germany
-    </h4>
-    <h3 align="center">
-        <a href="https://www.twitch.tv/noblemajo">
-            <img src="https://img.shields.io/badge/Twitch-a?logo=twitch&logoColor=white&color=B983F6&style=for-the-badge" alt="Twitch">
-        </a>
-        <a href="https://discord.com/invite/GJSbyJ5Jpe">
-            <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="Discord Server">
-        </a>
-        <a href="https://www.npmjs.com/~noblemajo">
-            <img src="https://img.shields.io/badge/npm-a?logo=npm&logoColor=white&color=cc3630&style=for-the-badge" alt="NPM">
-        </a>
-        <a href="https://hub.docker.com/u/noblemajo">
-            <img src="https://img.shields.io/badge/dockerhub-a?logo=docker&logoColor=white&color=0db7ed&style=for-the-badge" alt="DockerHub">
-        </a>
-        <a href="https://www.youtube.com/@noblemajo">
-            <img src="https://img.shields.io/badge/youtube-a?logo=youtube&color=FF1616&logoColor=white&style=for-the-badge" alt="YouTube">
-        </a>
-        <a href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
-            <img src="https://img.shields.io/badge/spotify-a?logo=youtube&color=21D05D&logoColor=white&style=for-the-badge" alt="Spotify">
-        </a>
-    </h3>
-</span>
+<div style="width: 100%;" align="center">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.twitch.tv/noblemajo">
+        <img src="https://img.shields.io/badge/Twitch-a?logo=twitch&logoColor=white&color=B983F6&style=for-the-badge" alt="Twitch" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/GJSbyJ5Jpe">
+        <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="Discord Server" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/~noblemajo">
+        <img src="https://img.shields.io/badge/npm-a?logo=npm&logoColor=white&color=cc3630&style=for-the-badge" alt="NPM" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://hub.docker.com/u/noblemajo">
+        <img src="https://img.shields.io/badge/dockerhub-a?logo=docker&logoColor=white&color=0db7ed&style=for-the-badge" alt="DockerHub" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@noblemajo">
+        <img src="https://img.shields.io/badge/youtube-a?logo=youtube&color=FF1616&logoColor=white&style=for-the-badge" alt="YouTube" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
+        <img src="https://img.shields.io/badge/spotify-a?logo=youtube&color=21D05D&logoColor=white&style=for-the-badge" alt="Spotify" />
+    </a>
+</div>
+
 
 <h1 align="left">
     <img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="NobleMajo" height="32" />
@@ -120,8 +118,10 @@
     </tbody>
 </table>
 
-<h1 align="left"><u>Langs & Techs</u></h1>
-<b>Some</b> of the languages and technologies i used before! 
+<h1 align="left"><u>Recommendations</u></h1>
+Some Technologies that I use and can recommend.
+Has no particular order and I have tested far more.
+
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
