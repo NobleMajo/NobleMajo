@@ -34,8 +34,12 @@
     <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
         <img src="https://img.shields.io/badge/spotify-a?logo=youtube&color=21D05D&logoColor=white&style=for-the-badge" alt="Spotify" />
     </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://telegram.me/NobleMajo">
+        <img src="https://img.shields.io/badge/telegram-a?logo=telegram&color=30ADED&logoColor=white&style=for-the-badge" alt="Telegram" />
+    </a>
 </div>
 
+https://telegram.me/NobleMajo
 
 <h1 align="left">
     <img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="NobleMajo" height="32" />
