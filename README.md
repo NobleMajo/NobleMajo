@@ -101,22 +101,22 @@
                 <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="64" width="64" alt="P" />
             </td>
             <td><a href="https://discord.gg/Urh6EfJj7N" target="blank">CodeHub discord server</a></td>
-            <td><i>Im one of the 3 Admins of a ~3000 member developer discord server<i></td>
+            <td><i>A large Discord server with a focus on development, technologies, your own projects and 😋 your skill issues. I am one of the 3 admins of this server.<i></td>
         </tr>
         <tr>
             <td><img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=1024&v=4" height="64" width="64" alt="C" /></td>
             <td><a href="https://dc.gg/majo" target="blank">CoreUnit.NET discord server</a></td>
-            <td><i>There are updates and direct contact on my server<i></td>
+            <td><i>A multilingual discord server with a focus on my gaming and music twitch community (de/en).<i></td>
         </tr>
         <tr>
             <td><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" /></td>
             <td><a href="https://discord.com/users/422136037503008808" target="blank">Discord direct message</a></td>
-            <td><i>I can be reached here often<i></td>
+            <td><i>You can reach me here if you need help or want to get in touch.<i></td>
         </tr>
         <tr>
             <td><img align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/telegram-icon.png" height="64" width="64" alt="D" /></td>
             <td><a href="https://telegram.me/NobleMajo" target="blank">Telegram direct message</a></td>
-            <td><i>I can be reached here quickly<i></td>
+            <td><i>You can sometimes reach me here.<i></td>
         </tr>
     </tbody>
 </table>
