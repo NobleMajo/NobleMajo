@@ -51,7 +51,7 @@
     - 💬 Ask me about: <b><i>typescript, docker, <br> devops, nodejs, web, cli or my projects</i></b><br>
     - 📫 You can reach me <b><a href="https://github.com/NobleMajo#contact-me">here</a></b><br>
     - 🌟 Checkout my <a href="https://github.com/NobleMajo?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
-    - 💡 Feel free to look at my last <a href="https://github.com/NobleMajo/hivessh">idea</a>
+    - 💡 Feel free to look at my last <a href="https://github.com/NobleMajo/hivessh">idea</a><br>
     - 🔗 Following me, is <b><i>FREE</i></b>...
 </p>
 <br>
