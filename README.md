@@ -77,6 +77,7 @@
 </p>
 -->
 
+<!--
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
         <img align="left" style="width: 35%;" />
@@ -84,42 +85,7 @@
         <img align="right" style="width: 35%;" />
     </span>
 </p>
-
-<h1 align="left"><u>Contact me</u></h1>
-
-<table>
-    <thead>
-        <tr>
-            <th>logo</th>
-            <th>link</th>
-            <th>info</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="64" width="64" alt="P" />
-            </td>
-            <td><a href="https://discord.gg/Urh6EfJj7N" target="blank">CodeHub discord server</a></td>
-            <td><i>A large Discord server with a focus on development, technologies, your own projects and 😋 your skill issues. I am one of the 3 admins of this server.<i></td>
-        </tr>
-        <tr>
-            <td><img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=1024&v=4" height="64" width="64" alt="C" /></td>
-            <td><a href="https://dc.gg/majo" target="blank">CoreUnit.NET discord server</a></td>
-            <td><i>A multilingual discord server with a focus on my gaming and music twitch community (de/en).<i></td>
-        </tr>
-        <tr>
-            <td><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" /></td>
-            <td><a href="https://discord.com/users/422136037503008808" target="blank">Discord direct message</a></td>
-            <td><i>You can reach me here if you need help or want to get in touch.<i></td>
-        </tr>
-        <tr>
-            <td><img align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/telegram-icon.png" height="64" width="64" alt="D" /></td>
-            <td><a href="https://telegram.me/NobleMajo" target="blank">Telegram direct message</a></td>
-            <td><i>You can sometimes reach me here.<i></td>
-        </tr>
-    </tbody>
-</table>
+-->
 
 <h1 align="left"><u>Recommendations</u></h1>
 Some Technologies that I use and can recommend.<br>
@@ -180,11 +146,53 @@ Has no particular order and I have tested far more.<br>
 </p>
 
 <h1 align="left"><u>Spotify Music</u></h1>
-<p align="center">
-    <a href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ps5lujrgihfsl2db4rn5gpiiqa&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=0D1117&amp;interchange=false&amp;bar_color=21D05D&amp;bar_color_cover=false" alt="spotify-music">
-    </a>
-</p>
+
+This is what I last heard on Spotify.<br>
+Maybe I and You dont like it but we cant change that fact:<br>
+"this is what I last heard on spotify".<br>
+
+<a align="center" width="100%" href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
+        <img align="center" width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=31ps5lujrgihfsl2db4rn5gpiiqa&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=0D1117&amp;interchange=false&amp;bar_color=21D05D&amp;bar_color_cover=false" alt="spotify-music">
+</a><br>
+
+I like a lot of genres but musical taste is always relative:<br>
+So there is no good or bad music, there is only what you like and what you dont.
+
+<h1 align="left"><u>Contact me</u></h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>logo</th>
+            <th>link</th>
+            <th>info</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="64" width="64" alt="P" />
+            </td>
+            <td><a href="https://discord.gg/Urh6EfJj7N" target="blank">CodeHub discord server</a></td>
+            <td>A large Discord server with a focus on development, technologies, your own projects and 😋 your skill issues. I am one of the 3 admins of this server.</td>
+        </tr>
+        <tr>
+            <td><img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=1024&v=4" height="64" width="64" alt="C" /></td>
+            <td><a href="https://dc.gg/majo" target="blank">CoreUnit.NET discord server</a></td>
+            <td>A multilingual discord server with a focus on my gaming and music twitch community (de/en).</td>
+        </tr>
+        <tr>
+            <td><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" /></td>
+            <td><a href="https://discord.com/users/422136037503008808" target="blank">Discord direct message</a></td>
+            <td>You can reach me here if you need help or want to get in touch.</td>
+        </tr>
+        <tr>
+            <td><img align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/telegram-icon.png" height="64" width="64" alt="D" /></td>
+            <td><a href="https://telegram.me/NobleMajo" target="blank">Telegram direct message</a></td>
+            <td>You can sometimes reach me here.</td>
+        </tr>
+    </tbody>
+</table>
 
 <br><br>
 <hr>
