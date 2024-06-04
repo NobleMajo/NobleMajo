@@ -39,7 +39,6 @@
     </a>
 </div>
 
-<br><br>
 <h1 align="left">
     <img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="NobleMajo" height="32" />
     <u>
@@ -57,8 +56,7 @@
     - 🔗 Following me, is <b><i>FREE</i></b>...
 </p>
 
-
-<br><br><br><br>
+<br>
 <h1 align="left"><u>Github stats</u></h1>
 
 <p align="center" style="width: 100%;">
@@ -90,7 +88,6 @@
 </p>
 -->
 
-<br><br>
 <h1 align="left"><u>Recommendations</u></h1>
 
 Some Technologies that I use and can recommend.<br>
@@ -150,21 +147,14 @@ Has no particular order and I have tested far more.<br>
     </a>
 </p>
 
-<br><br>
 <h1 align="left"><u>Spotify Music</u></h1>
 
 This is what I last heard on Spotify.<br>
-Maybe I and You dont like it but we cant change that fact:<br>
-"this is what I last heard on spotify".<br>
 
 <a align="center" width="100%" href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
         <img align="center" width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=31ps5lujrgihfsl2db4rn5gpiiqa&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=0D1117&amp;interchange=false&amp;bar_color=21D05D&amp;bar_color_cover=false" alt="spotify-music">
 </a><br>
 
-I like a lot of genres but musical taste is always relative:<br>
-So there is no good or bad music, there is only what you like and what you dont.
-
-<br><br>
 <h1 align="left"><u>Contact me</u></h1>
 
 <table>
@@ -200,7 +190,7 @@ So there is no good or bad music, there is only what you like and what you dont.
     </tbody>
 </table>
 
-<br><br><br><br>
+<br><br>
 <hr>
 <p align="center">
     <a href="https://github.com/NobleMajo?tab=repositories">projects</a> | 
