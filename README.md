@@ -12,12 +12,12 @@
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/NobleMajo">
         <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
     </a>
-</div><br><br>
+</div>
 
 <img class="cropimg" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background" style="width: 100%;" />
 
 <div style="width: 100%;" align="center">
-    <div style="width: 100%;" align="center">A passionate fullstack typescript and devops engineer from germany</div>
+    <p style="width: 100%;" align="center">A passionate fullstack typescript and devops engineer from germany</p>
     <a target="_blank" rel="noopener noreferrer" href="https://www.twitch.tv/noblemajo">
         <img src="https://img.shields.io/badge/Twitch-a?logo=twitch&logoColor=white&color=B983F6&style=for-the-badge" alt="Twitch" />
     </a>
