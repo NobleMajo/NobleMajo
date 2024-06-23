@@ -18,9 +18,11 @@
 
 <div style="width: 100%;" align="center">
     <p style="width: 100%;" align="center">A passionate fullstack typescript and devops engineer from germany</p>
+    <!--
     <a target="_blank" rel="noopener noreferrer" href="https://www.twitch.tv/noblemajo">
         <img src="https://img.shields.io/badge/Twitch-a?logo=twitch&logoColor=white&color=B983F6&style=for-the-badge" alt="Twitch" />
     </a>
+    -->
     <a target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/GJSbyJ5Jpe">
         <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="Discord Server" />
     </a>
