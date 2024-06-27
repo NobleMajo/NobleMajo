@@ -153,6 +153,7 @@ Has no particular order and I have tested far more.<br>
     </a>
 </p>
 
+<!--
 <h1 align="left"><u>Spotify Music</u></h1>
 
 This is what I last heard on Spotify.<br>
@@ -160,6 +161,7 @@ This is what I last heard on Spotify.<br>
 <a align="center" width="100%" href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
         <img align="center" width="100%" src="[https://spotify-github-profile.vercel.app/api/view?uid=31ps5lujrgihfsl2db4rn5gpiiqa&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=0D1117&amp;interchange=false&amp;bar_color=21D05D&amp;bar_color_cover=false](https://spotify-github-profile.kittinanx.com/api/view?uid=31ps5lujrgihfsl2db4rn5gpiiqa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)" alt="spotify-music">
 </a><br>
+-->
 
 <h1 align="left"><u>Contact me</u></h1>
 
