@@ -1,22 +1,5 @@
 
 <div style="width: 100%;" align="center">
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/NobleMajo">
-        <img src="https://img.shields.io/badge/@Noble-Majo-purple?logo=h&logoColor=white&style=for-the-badge" alt="NobleMajo">
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.hannover.de">
-        <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Region&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/NobleMajo?tab=followers">
-        <img src="https://komarev.com/ghpvc/?username=NobleMajo&label=Guests&color=0e75b6&style=for-the-badge" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/NobleMajo">
-        <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
-    </a>
-</div>
-
-<img class="cropimg" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background" style="width: 100%;" />
-
-<div style="width: 100%;" align="center">
     <p style="width: 100%;" align="center">A passionate fullstack typescript and devops engineer from germany</p>
     <!--
     <a target="_blank" rel="noopener noreferrer" href="https://www.twitch.tv/noblemajo">
