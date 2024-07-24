@@ -17,7 +17,7 @@
 <img class="cropimg" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background" style="width: 100%;" />
 
 <div style="width: 100%;" align="center">
-    <p style="width: 100%;" align="center">A passionate fullstack devops engineer from germany</p>
+    <p style="width: 100%;" align="center">A passionate fullstack & DevOps engineer from Germany</p>
     <!--
     <a target="_blank" rel="noopener noreferrer" href="https://www.twitch.tv/noblemajo">
         <img src="https://img.shields.io/badge/Twitch-a?logo=twitch&logoColor=white&color=B983F6&style=for-the-badge" alt="Twitch" />
