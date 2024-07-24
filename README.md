@@ -55,7 +55,7 @@
 <img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
 <p align="left">
     - ⚡ My approach: <b>learn from mistakes</b><br>
-    - 💬 Ask me about: <b><i>typescript, docker, <br> devops, nodejs, web, cli or my projects</i></b><br>
+    - 💬 Ask me about: <b><i>typescript, go, docker, <br> devops, nodejs, web, cli or my projects</i></b><br>
     - 📫 You can reach me <b><a href="https://github.com/NobleMajo#contact-me">here</a></b><br>
     - 🌟 Checkout my <a href="https://github.com/NobleMajo?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
     - 💡 Feel free to look at my last <a href="https://github.com/NobleMajo/hivessh">idea</a><br>
@@ -100,6 +100,10 @@ Some Technologies that I use and can recommend.<br>
 Has no particular order and I have tested far more.<br>
 
 <p align="left">
+    <a href="https://golang.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
+    width="92" height="92" />
+    </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
     alt="typescript" width="92" height="92" />
@@ -146,10 +150,6 @@ Has no particular order and I have tested far more.<br>
     <a href="https://redis.io" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
     alt="redis" width="92" height="92" />
-    </a>
-    <a href="https://golang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
-    width="92" height="92" />
     </a>
 </p>
 
