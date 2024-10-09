@@ -16,13 +16,11 @@
 
 <img class="cropimg" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background" style="width: 100%;" />
 
+<!--
 <div style="width: 100%;" align="center">
-    <p style="width: 100%;" align="center">Just another Software & DevOps Engineer from Hannover, Germany</p>
-    <!--
-    <a target="_blank" rel="noopener noreferrer" href="https://www.twitch.tv/noblemajo">
-        <img src="https://img.shields.io/badge/Twitch-a?logo=twitch&logoColor=white&color=B983F6&style=for-the-badge" alt="Twitch" />
-    </a>
-    -->
+    <p style="width: 100%;" align="center">
+      Just another Software & DevOps Engineer from Hannover, Germany
+    </p>
     <a target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/GJSbyJ5Jpe">
         <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="Discord Server" />
     </a>
@@ -32,11 +30,6 @@
     <a target="_blank" rel="noopener noreferrer" href="https://hub.docker.com/u/noblemajo">
         <img src="https://img.shields.io/badge/dockerhub-a?logo=docker&logoColor=white&color=0db7ed&style=for-the-badge" alt="DockerHub" />
     </a>
-    <!--
-    <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@noblemajo">
-        <img src="https://img.shields.io/badge/youtube-a?logo=youtube&color=FF1616&logoColor=white&style=for-the-badge" alt="YouTube" />
-    </a>
-    -->
     <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
         <img src="https://img.shields.io/badge/spotify-a?logo=youtube&color=21D05D&logoColor=white&style=for-the-badge" alt="Spotify" />
     </a>
@@ -44,6 +37,7 @@
         <img src="https://img.shields.io/badge/telegram-a?logo=telegram&color=30ADED&logoColor=white&style=for-the-badge" alt="Telegram" />
     </a>
 </div>
+-->
 
 <h1 align="left">
     <img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="NobleMajo" height="32" />
@@ -56,10 +50,9 @@
 <p align="left">
     - ⚡ My approach: <b>learn from mistakes</b><br>
     - 🌟 Checkout my <a href="https://github.com/NobleMajo?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
-    - 💡 Feel free to look at my last <a href="https://github.com/NobleMajo/vault">idea</a><br>
+    - 🔗 Following me, is <b><i>FREE</i></b>...<br>
+    - 📫 Reach me via my <b><a href="https://noblemajo.de/en/index.html">Linktree</a></b><br>
     - 💬 Ask me about: <b><i>typescript, go, docker, <br> devops, nodejs, web, cli or my projects</i></b><br>
-    - 📫 You can reach me <b><a href="https://github.com/NobleMajo#contact-me">here</a></b><br>
-    - 🔗 Following me, is <b><i>FREE</i></b>...
 </p>
 
 <br>
@@ -78,9 +71,9 @@
 
 <!--
 <p align="center">
-<a href="https://github.com/NobleMajo">
-  <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=NobleMajo&theme=onedark&row=1&column=7" alt="NobleMajo" />
-</a>
+    <a href="https://github.com/NobleMajo">
+      <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=NobleMajo&theme=onedark&row=1&column=7" alt="NobleMajo" />
+    </a>
 </p>
 -->
 
@@ -153,57 +146,14 @@ Has no particular order and I have tested far more.<br>
     </a>
 </p>
 
-<!--
-<h1 align="left"><u>Spotify Music</u></h1>
-
-This is what I last heard on Spotify.<br>
-
-<a align="center" width="100%" href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
-        <img align="center" width="100%" src="[https://spotify-github-profile.vercel.app/api/view?uid=31ps5lujrgihfsl2db4rn5gpiiqa&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=0D1117&amp;interchange=false&amp;bar_color=21D05D&amp;bar_color_cover=false](https://spotify-github-profile.kittinanx.com/api/view?uid=31ps5lujrgihfsl2db4rn5gpiiqa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)" alt="spotify-music">
-</a><br>
--->
-
-<h1 align="left"><u>Contact me</u></h1>
-
-<table>
-    <tbody>
-        <tr>
-            <td width="92px">
-                <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="64" width="64" alt="P" />
-            </td>
-            <td width="100px" align="center"><a href="https://discord.gg/Urh6EfJj7N" target="blank">CodeHub<br><i>(server)</i></a></td>
-            <td>A large Discord server with a focus on development, technologies, your own projects and 😋 your skill issues. I am one of the 3 admins of this server.</td>
-        </tr>
-        <tr>
-            <td width="92px">
-                <img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=1024&v=4" height="64" width="64" alt="C" />
-            </td>
-            <td width="100px" align="center"><a href="https://dc.gg/majo" target="blank">CoreUnit.NET<br><i>(server)</i></a></td>
-            <td>A multilingual discord server with a focus on my gaming and music twitch community (de/en).</td>
-        </tr>
-        <tr>
-            <td width="92px">
-                <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" />
-            </td>
-            <td width="100px" align="center"><a href="https://discord.com/users/422136037503008808" target="blank">Discord<br><i>(direct)</i></a></td>
-            <td>You can reach me here if you need help or want to get in touch.</td>
-        </tr>
-        <tr>
-            <td width="92px">
-                <img align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/telegram-icon.png" height="64" width="64" alt="D" />
-            </td>
-            <td width="100px" align="center"><a href="https://telegram.me/NobleMajo" target="blank">Telegram<br><i>(direct)</i></a></td>
-            <td>You can sometimes reach me here.</td>
-        </tr>
-    </tbody>
-</table>
+<h1 align="left"><u>Linktree</u></h1>
+You can reach me and find my social media on my <a href="https://noblemajo.de/en/index.html">Linktree</a>. 
 
 <br><br>
 <hr>
 <p align="center">
     <a href="https://github.com/NobleMajo?tab=repositories">projects</a> | 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">http status 418</a> | 
-    <a href="https://github.com/NobleMajo#contect-me">contact</a> | 
+    <a href="https://noblemajo.de/en/index.html">contact & socials</a> | 
     <a href="https://github.com/NobleMajo#langs--techs">techs</a>
 </p>
 <hr>
