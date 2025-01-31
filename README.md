@@ -87,33 +87,6 @@
 <hr>
 
 <details>
-  <summary><b>📈 Github stats</b></summary>
-With this summary of statistics I want to show how meaningless they are.<br>
-Anyway, I like this animation: 😊👍
-
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
-</p>
-
-This kind of statistic always seems useless and meaningless to me, as the person may not even use GitHub, may not publish anything, or may have a full-time job in parallel:
-<p align="center" style="width: 100%;">
-    <span style="width: 100%;">
-        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=NobleMajo&theme=onedark" alt="NobleMajo" />
-        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=NobleMajo&show_icons=true&locale=en&theme=onedark" alt="NobleMajo" />
-    </span>
-</p>
-
-These trophies are even more meaningless because they hide the value of the above statistics:
-<p align="center">
-    <a href="https://github.com/NobleMajo">
-      <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=NobleMajo&theme=onedark&row=1&column=7" alt="NobleMajo" />
-    </a>
-</p>
-
-<hr>
-</details>
-
-<details>
   <summary><b>🔮 Tech Tips</b></summary>
 
   Here are some technologies I use and recommend you try.<br>
@@ -170,6 +143,33 @@ These trophies are even more meaningless because they hide the value of the abov
     <a href="https://redis.io" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
     alt="redis" width="92" height="92" />
+    </a>
+</p>
+
+<hr>
+</details>
+
+<details>
+  <summary><b>📈 Github stats</b></summary>
+With this summary of statistics I want to show how meaningless they are.<br>
+Anyway, I like this animation: 😊👍
+
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
+</p>
+
+This kind of statistic always seems useless and meaningless to me, as the person may not even use GitHub, may not publish anything, or may have a full-time job in parallel:
+<p align="center" style="width: 100%;">
+    <span style="width: 100%;">
+        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=NobleMajo&theme=onedark" alt="NobleMajo" />
+        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=NobleMajo&show_icons=true&locale=en&theme=onedark" alt="NobleMajo" />
+    </span>
+</p>
+
+These trophies are even more meaningless because they hide the value of the above statistics:
+<p align="center">
+    <a href="https://github.com/NobleMajo">
+      <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=NobleMajo&theme=onedark&row=1&column=7" alt="NobleMajo" />
     </a>
 </p>
 
