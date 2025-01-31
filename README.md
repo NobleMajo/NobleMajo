@@ -39,6 +39,16 @@
 </div>
 -->
 
+<!--
+<p align="center" style="width: 100%;">
+    <span style="width: 100%;">
+        <img align="left" style="width: 35%;" />
+        <img class="cropimg" align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="NobleMajo Avatar with dark background" style="width: 29%;" />
+        <img align="right" style="width: 35%;" />
+    </span>
+</p>
+-->
+
 <h1 align="left">
     <img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="NobleMajo" height="32" />
     <u>
@@ -46,17 +56,39 @@
     </u>
 </h1>
 
-<img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
+ <img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
+
 <p align="left">
-    - ⚡ My approach: <b>learn from mistakes</b><br>
-    - 🌟 Checkout my <a href="https://github.com/NobleMajo?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
-    - 🔗 Following me, is <b><i>FREE</i></b>...<br>
-    - 📫 Reach me via my <b><a href="https://noblemajo.de/en/index.html">Linktree</a></b><br>
-    - 💬 Ask me about: <b><i>typescript, go, docker, <br> devops, nodejs, web, cli or my projects</i></b><br>
+    <ul>
+        <li>
+            <b>🧠 Mindset:</b><br>
+            Learn from mistakes | Focus the end user |  
+            Balance <a href="https://de.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself">DRY</a> <->  
+            <a href="https://de.wikipedia.org/wiki/KISS-Prinzip">KISS</a>
+        </li>
+        <li>
+            💼 <b>Projects:</b>  
+            Check out my <a href="https://github.com/NobleMajo?tab=repositories">repos</a> & drop a 🌟
+        </li>
+        <li>
+            💬 <b>Contact:</b>  
+            My custom <a href="https://noblemajo.de/en/index.html">linktree</a>
+        </li>
+        <li>
+            🤔 <b>Ask me about:</b>  
+            TypeScript, Go, Docker, DevOps, GitHub, Bun.js, Node.js, Web, CLI, or my repos...
+        </li>
+        <li>
+            🔔 Following me is <b><i>FREE</i></b>... 😅
+        </li>
+    </ul>  
 </p>
 
-<br>
-<h1 align="left"><u>Github stats</u></h1>
+
+<hr>
+
+<details>
+  <summary><h3>📈 Github stats</h3></summary>
 
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
@@ -69,25 +101,18 @@
     </span>
 </p>
 
-<!--
 <p align="center">
     <a href="https://github.com/NobleMajo">
       <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=NobleMajo&theme=onedark&row=1&column=7" alt="NobleMajo" />
     </a>
 </p>
--->
 
-<!--
-<p align="center" style="width: 100%;">
-    <span style="width: 100%;">
-        <img align="left" style="width: 35%;" />
-        <img class="cropimg" align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="NobleMajo Avatar with dark background" style="width: 29%;" />
-        <img align="right" style="width: 35%;" />
-    </span>
-</p>
--->
+<hr>
 
-<h1 align="left"><u>Recommendations</u></h1>
+</details>
+
+<details>
+  <summary><h3>🔮 Tech Tips</h3></summary>
 
 Some Technologies that I use and can recommend.<br>
 Has no particular order and I have tested far more.<br>
@@ -146,14 +171,13 @@ Has no particular order and I have tested far more.<br>
     </a>
 </p>
 
-<h1 align="left"><u>Linktree</u></h1>
-You can reach me and find my social media on my <a href="https://noblemajo.de/en/index.html">Linktree</a>. 
+<hr>
+
+</details>
 
 <br><br>
-<hr>
 <p align="center">
     <a href="https://github.com/NobleMajo?tab=repositories">projects</a> | 
     <a href="https://noblemajo.de/en/index.html">contact & socials</a> | 
     <a href="https://github.com/NobleMajo#langs--techs">techs</a>
 </p>
-<hr>
