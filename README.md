@@ -84,7 +84,6 @@
     </ul>  
 </p>
 
-<br>
 <hr>
 
 <details>
@@ -107,6 +106,7 @@
     </a>
 </p>
 
+<br>
 <hr>
 
 </details>
@@ -171,6 +171,7 @@ Has no particular order and I have tested far more.<br>
     </a>
 </p>
 
+<br>
 <hr>
 
 </details>
