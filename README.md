@@ -84,7 +84,7 @@
     </ul>  
 </p>
 
-
+<br>
 <hr>
 
 <details>
@@ -175,7 +175,6 @@ Has no particular order and I have tested far more.<br>
 
 </details>
 
-<br><br>
 <p align="center">
     <a href="https://github.com/NobleMajo?tab=repositories">projects</a> | 
     <a href="https://noblemajo.de/en/index.html">contact & socials</a> | 
