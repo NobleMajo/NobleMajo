@@ -87,7 +87,7 @@
 <hr>
 
 <details>
-  <summary><h3>📈 Github stats</h3></summary>
+  <summary><b>📈 Github stats</b></summary>
 
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
@@ -106,13 +106,11 @@
     </a>
 </p>
 
-<br>
 <hr>
-
 </details>
 
 <details>
-  <summary><h3>🔮 Tech Tips</h3></summary>
+  <summary><b>🔮 Tech Tips</b></summary>
 
 Some Technologies that I use and can recommend.<br>
 Has no particular order and I have tested far more.<br>
@@ -171,9 +169,7 @@ Has no particular order and I have tested far more.<br>
     </a>
 </p>
 
-<br>
 <hr>
-
 </details>
 
 <p align="center">
