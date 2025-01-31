@@ -56,7 +56,7 @@
     </u>
 </h1>
 
- <img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
+ <img align="right" style="width: 46%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
 
 <p align="left">
     <ul>
@@ -71,15 +71,15 @@
             Check out my <a href="https://github.com/NobleMajo?tab=repositories">repos</a> & drop a 🌟
         </li>
         <li>
+            🔔 Following me is <b><i>FREE</i></b>... 😅
+        </li>
+        <li>
             💬 <b>Contact:</b>  
             My custom <a href="https://noblemajo.de/en/index.html">linktree</a>
-        </li>
+        </li>  
         <li>
             🤔 <b>Ask me about:</b>  
             TypeScript, Go, Docker, DevOps, GitHub, Bun.js, Node.js, Web, CLI, or my repos...
-        </li>
-        <li>
-            🔔 Following me is <b><i>FREE</i></b>... 😅
         </li>
     </ul>  
 </p>
