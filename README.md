@@ -88,11 +88,14 @@
 
 <details>
   <summary><b>📈 Github stats</b></summary>
+With this summary of statistics I want to show how meaningless they are.<br>
+Anyway, I like this animation: 😊👍
 
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
 </p>
 
+This kind of statistic always seems useless and meaningless to me, as the person may not even use GitHub, may not publish anything, or may have a full-time job in parallel:
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
         <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=NobleMajo&theme=onedark" alt="NobleMajo" />
@@ -100,6 +103,7 @@
     </span>
 </p>
 
+These trophies are even more meaningless because they hide the value of the above statistics:
 <p align="center">
     <a href="https://github.com/NobleMajo">
       <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=NobleMajo&theme=onedark&row=1&column=7" alt="NobleMajo" />
@@ -112,8 +116,8 @@
 <details>
   <summary><b>🔮 Tech Tips</b></summary>
 
-Some Technologies that I use and can recommend.<br>
-Has no particular order and I have tested far more.<br>
+  Here are some technologies I use and recommend you try.<br>
+  This list is in no particular order, and I've tried many more.<br>
 
 <p align="left">
     <a href="https://golang.org" target="_blank">
@@ -124,17 +128,9 @@ Has no particular order and I have tested far more.<br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
     alt="typescript" width="92" height="92" />
     </a>
-    <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-    alt="express" width="92" height="92" />
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs" width="92" height="92" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="92" height="92" />
+    <a href="https://bun.sh" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg"
+    alt="bun.js" width="92" height="92" />
     </a>
     <a href="https://kubernetes.io" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="92"
@@ -150,6 +146,14 @@ Has no particular order and I have tested far more.<br>
     </a>
     <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="92" height="92" />
+    </a>
+    <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+    alt="express" width="92" height="92" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript" width="92" height="92" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
