@@ -14,7 +14,7 @@
     </a>
 </div>
 
-<img class="cropimg" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background" style="width: 100%;" />
+<img class="cropimg" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/imgs/majo-animated-banner.gif" alt="NobleMajo.DE titel banner" style="width: 100%;" />
 
 <!--
 <div style="width: 100%;" align="center">
