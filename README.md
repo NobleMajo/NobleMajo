@@ -62,7 +62,7 @@
     <ul>
         <li>
             <b>🧠 Mindset:</b><br>
-            Learn from mistakes | Focus the end user |  
+            Learn from mistakes | Think of the end user |  
             Balance <a href="https://de.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself">DRY</a> <->  
             <a href="https://de.wikipedia.org/wiki/KISS-Prinzip">KISS</a>
         </li>
