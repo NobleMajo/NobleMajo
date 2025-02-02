@@ -178,6 +178,5 @@ These trophies are even more meaningless because they hide the value of the abov
 
 <p align="center">
     <a href="https://github.com/NobleMajo?tab=repositories">projects</a> | 
-    <a href="https://noblemajo.de/en/index.html">contact & socials</a> | 
-    <a href="https://github.com/NobleMajo#langs--techs">techs</a>
+    <a href="https://noblemajo.de/en/index.html">contact & socials</a>
 </p>
