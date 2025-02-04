@@ -63,7 +63,7 @@
         <li>
             <b>🧠 Mindset:</b><br>
             Do mistakes, fix mistakes | Balance <a href="https://de.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself">DRY</a> <->  
-            <a href="https://de.wikipedia.org/wiki/KISS-Prinzip">KISS</a> | Think of the end user
+            <a href="https://de.wikipedia.org/wiki/KISS-Prinzip">KISS</a> | Think like the end user
         </li>
         <li>
             💼 <b>Projects:</b>  
