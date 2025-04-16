@@ -58,7 +58,7 @@
         </li>
         <li>
             💬 <b>Contact:</b>  
-            My custom <a href="https://noblemajo.de/en/index.html">linktree</a>
+            My selfmade <a href="https://noblemajo.de/en/index.html">linktree</a>
         </li>  
         <li>
             🤔 <b>Ask me about:</b>  
