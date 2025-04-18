@@ -72,8 +72,8 @@
 <details>
   <summary><b>🔮 Tech Tips</b></summary>
 
-  Here are some technologies I use and recommend you try.<br>
-  This list is in no particular order, and I've tried many more.<br>
+Here are some technologies I can recommend to try.<br>
+I have tried and could recommended many more:<br>
 
 <p align="left">
     <a href="https://golang.org" target="_blank">
@@ -134,8 +134,8 @@
 
 <details>
     <summary><b>📈 Github stats</b></summary>
-    With this summary of statistics I want to show how meaningless they are.<br>
-    Anyway, I like this animation: 😊👍
+    With this summary of statistics I want to show you how meaningless they are.<br>
+    I really like this animation: 😊👍
     <p align="center" style="width: 100%;">
         <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
     </p>
