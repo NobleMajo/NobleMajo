@@ -163,22 +163,15 @@ I have tried and could recommended many more:<br>
     <details>
         <summary><h1>Stop! Just dont do it!</h1><i>(or click here)</i></summary>
 
-...unless you **understand** the **languages** and all the **libraries, frameworks, and tooling** of what you're using.
-
----
+...unless you ***understand*** the **languages** and all the **libraries, frameworks, and tooling** of what you're using.
 
 # Disclaimer
 
-Using AI for micro-tasks can be helpful, but remember: it's merely a **tool** that operates on statistics.
-It's **not** an intelligent, critically thinking software engineer.
+Using AI for micro-tasks can be helpful, but remember: it's merely a ***tool*** that operates on statistics. It's **not** an *intelligent, critically thinking* software engineer.
 
-While you might create something functional, there's a significant risk of building something that backfires.
-This could happen by the AI misrepresenting information or inadvertently exposing sensitive data.
+While you might create something functional, there's a ***significant risk*** of building something that backfires. This could happen by the AI *misrepresenting information* or inadvertently *exposing sensitive data*.
 
-If your project isn't something the AI has encountered countless times on the internet (like a **to-do app, Hello World, or a calculator**), then anything novel you invent is also new to the AI.
-It doesn't possess the foresight of a human developer; instead, it only estimates statistics up to the next immediate milestone.
-
----
+If your project isn't something the AI has encountered countless times on the internet (like a **to-do app, Hello World, or a calculator**), then anything *novel* you invent is also new to the AI. It doesn't possess the *foresight of a human developer*; instead, it only estimates statistics up to the next *immediate milestone*.
 
 # Tips
 
@@ -189,17 +182,17 @@ Here are my tips you are here for:
 
 ## 1. Document Your Project Thoroughly
 
-Create a powerful `README.md` file containing a general description, a simple configuration guide, a user story, and an explanation of the problem that your app is designed to solve.
-Also, provide a link to a more detailed configuration guide.
+Create a ***powerful*** `README.md` file containing a general description, a simple configuration guide, a user story, and an explanation of the problem that your app is designed to solve.
+Also, provide a link to a *more detailed* configuration guide.
 
 This will make you more aware of your app and enable you to **quickly provide AI the context** it will probably need.
 
 ## 2. E2E-Script
 
-Especially if you're using a "Cursor"-like development environment, an **e2e-script** or **e2e-Makefile-target** that the AI can execute itself is very practical.
-This allows the AI to feed itself context and to relatively autonomously repair or fix individual parts. However, this does not replace human involvement.
+Especially if you're using a "Cursor"-like development environment, an **e2e-script** or **e2e-Makefile-target** that the AI can execute itself is *very practical*.
+This allows the AI to feed itself context and to relatively autonomously repair or fix individual parts. However, this does ***not replace human involvement***.
 
-The E2E script must perform the following actions in a language-appropriate order:
+The E2E script must perform the following actions in a *language-appropriate* order:
 
 * **Load dependencies**
 * **Build the app**
@@ -211,7 +204,7 @@ The E2E script must perform the following actions in a language-appropriate orde
 
 ### Linter
 
-If the linter cannot perform one of the following tasks, an additional tool should be used or programmed to handle it:
+If the linter cannot perform one of the following tasks, an *additional tool* should be used or programmed to handle it:
 
 * **Warn about excessively large files** (e.g., max. 240 KB)
 * **Warn about excessively large function bodies** (Example: max. 60 lines)
@@ -234,23 +227,23 @@ Here are some commands and tools you could use:
 
 ## 3. Recurring Prompts
 
-If you have a specific problem in one place, look at it and solve it!
-If you want something specific, implement it!
+If you have a specific problem in one place, *look at it and solve it!*
+If you want something specific, *implement it!*
 
-However, for unorganized problems, you can write generic prompts that a "Cursor"-like development environment can execute.
+However, for unorganized problems, you can write *generic prompts* that a "Cursor"-like development environment can execute.
 
 Here are a few short versions:
 
-* "find code snippets that look like <this> and fix them like <that>"
-* "implement things written like <this> using the following design pattern: <x>"
+* "find code snippets that look like _<this>_ and fix them like _<that>_"
+* "implement things written like _<this>_ using the following design pattern: _<x>_"
 * "split the huge function into sub-functions"
 * "refactor all functions so that the main logic is at the first level and not nested in scopes"
 
 ## 4. Provide AI Context
 
-1.  Tell the AI why it should do something and what your expected result is.
+1.  Tell the AI *why* it should do something and what your *expected result* is.
 2.  If possible, give the AI access to test itself so you don't have to relay context.
-3.  Give the AI precise whitelist limitations that tell it which files it is allowed to edit.
+3.  Give the AI *precise whitelist limitations* that tell it which files it is allowed to edit.
 
 # Conclusion
 
