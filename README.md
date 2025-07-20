@@ -169,13 +169,14 @@ I have tried and could recommended many more:<br>
 
 # Disclaimer
 
-If you use AI for micro-tasks, it can sometimes help. However, keep in mind: It's just a **tool** based on statistics, **not** an intelligent critically thinking software engineer.
-You might build something that works, but you'll probably also build something that shoots yourself in the foot by either misrepresenting things or exposing information to others.
+Using AI for micro-tasks can be helpful, but remember: it's merely a **tool** that operates on statistics.
+It's **not** an intelligent, critically thinking software engineer.
 
-If you're not developing something the AI has seen a thousand times on the internet (e.g., a **to-do app, Hello World, calculator, etc.**).
-Anything new and invented **by you** is also new to the AI.
+While you might create something functional, there's a significant risk of building something that backfires.
+This could happen by the AI misrepresenting information or inadvertently exposing sensitive data.
 
-It doesn't think as far ahead as a developer; it only estimating statistics until the next milestone.
+If your project isn't something the AI has encountered countless times on the internet (like a **to-do app, Hello World, or a calculator**), then anything novel you invent is also new to the AI.
+It doesn't possess the foresight of a human developer; instead, it only estimates statistics up to the next immediate milestone.
 
 ---
 
