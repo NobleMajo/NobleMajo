@@ -40,7 +40,7 @@
     </u>
 </h1>
 
- <img align="right" style="width: 49%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
+ <img align="right" style="width: 57%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
 
 <p align="left">
     <ul>
@@ -53,11 +53,11 @@
         </li>
         <li>
           🔔 <b>Follow:</b>  
-          Does the button still work? Testing is <b>free</b>!
+          Does the button work? <b>FREE</b> testing!
         </li>
         <li>
           💼 <b>Projects:</b>  
-          Explore my <a href="https://github.com/NobleMajo?tab=repositories">repositories</a> and drop a 🌟
+          Explore my <a href="https://github.com/NobleMajo?tab=repositories">repos</a> and drop a 🌟
         </li>
         <li>
           💬 <b>Contact:</b>  
@@ -65,8 +65,8 @@
         </li>
         <li>
           🤔 <b>Ask me about:</b><br>
-           • TypeScript • Go • Bun • Node.js • Web<br>
-           • Go • Linux • CLI • Docker • Kubernetes<br>
+           • TypeScript • Bun • Node.js • Web<br>
+           • Go • Linux • Docker • Kubernetes<br>
            • DevOps • CI/CD • GitHub • GitLab
         </li>
     </ul>  
