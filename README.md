@@ -40,16 +40,16 @@
     </u>
 </h1>
 
- <img align="right" style="width: 46%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
+ <img align="right" style="width: 49%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
 
 <p align="left">
     <ul>
         <li>
           <b>🧠 Mindset:</b><br>
-          balance <a href="https://de.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself">DRY</a> ↔  
+           • balance <a href="https://de.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself">DRY</a> ↔  
           <a href="https://de.wikipedia.org/wiki/KISS-Prinzip">KISS</a><br>
-            think like the end user<br>
-            testing is essential
+           • think like the end user<br>
+           • testing is essential
         </li>
         <li>
           🔔 <b>Follow:</b>  
@@ -65,8 +65,9 @@
         </li>
         <li>
           🤔 <b>Ask me about:</b><br>
-          TypeScript • Go • Bun • Node.js • Web • Linux • Docker<br>
-          Kubernetes • DevOps • CI/CD • GitHub • GitLab • CLI
+           • TypeScript • Go • Bun • Node.js • Web<br>
+           • Go • Linux • CLI • Docker • Kubernetes<br>
+           • DevOps • CI/CD • GitHub • GitLab
         </li>
     </ul>  
 </p>
