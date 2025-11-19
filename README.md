@@ -45,24 +45,28 @@
 <p align="left">
     <ul>
         <li>
-            <b>🧠 Mindset:</b><br>
-            Do mistakes, fix mistakes | Balance <a href="https://de.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself">DRY</a> <->  
-            <a href="https://de.wikipedia.org/wiki/KISS-Prinzip">KISS</a> | Think like the end user
+          <b>🧠 Mindset:</b><br>
+          balance <a href="https://de.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself">DRY</a> ↔  
+          <a href="https://de.wikipedia.org/wiki/KISS-Prinzip">KISS</a><br>
+            think like the end user<br>
+            testing is essential
         </li>
         <li>
-            💼 <b>Projects:</b>  
-            Check out my <a href="https://github.com/NobleMajo?tab=repositories">repos</a> & drop a 🌟
+          🔔 <b>Follow:</b>  
+          Does the button still work? Testing is <b>free</b>!
         </li>
         <li>
-            🔔 Following me is <b><i>FREE</i></b>... 😅
+          💼 <b>Projects:</b>  
+          Explore my <a href="https://github.com/NobleMajo?tab=repositories">repositories</a> and drop a 🌟
         </li>
         <li>
-            💬 <b>Contact:</b>  
-            My selfmade <a href="https://noblemajo.de/en/index.html">linktree</a>
-        </li>  
+          💬 <b>Contact:</b>  
+          My self-made <a href="https://noblemajo.de/en/index.html">linktree</a>
+        </li>
         <li>
-            🤔 <b>Ask me about:</b>  
-            TypeScript, Go, Docker, DevOps, GitHub, Bun.js, Node.js, Web, CLI, or my repos...
+          🤔 <b>Ask me about:</b><br>
+          TypeScript • Go • Bun • Node.js • Web • Linux • Docker<br>
+          Kubernetes • DevOps • CI/CD • GitHub • GitLab • CLI
         </li>
     </ul>  
 </p>
@@ -70,10 +74,10 @@
 <hr>
 
 <details>
-  <summary><b>🔮 Tech Tips</b></summary>
+  <summary><b>🔮 Tech recommendations</b></summary>
 
 Here are some technologies I can recommend to try.<br>
-I have tried and could recommended many more:<br>
+There are many other very good alternatives, but the following options worked reliably and were suitable for most of my use cases.<br>
 
 <p align="left">
     <a href="https://golang.org" target="_blank">
@@ -135,18 +139,19 @@ I have tried and could recommended many more:<br>
 <details>
     <summary><b>📈 Github stats</b></summary>
     With this summary of statistics I want to show you how meaningless they are.<br>
-    I really like this animation: 😊👍
+    The only reason the following animation is here is because I think a lot of love went it: 😊👍
     <p align="center" style="width: 100%;">
         <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
     </p>
-    This kind of statistic always seems useless and meaningless to me, as the person may not even use GitHub, may not publish anything, or may have a full-time job in parallel:
+    This kind of statistic always seems useless and meaningless to me, as the person may not even use GitHub, may not publish anything, or may have a full-time job in parallel.
+    Also this statistics are not self-explanatory, either. First, you have to find out what everything means, how big the archive actually is, and whether you can fulfil it yourself via spam or a own spam repo.
     <p align="center" style="width: 100%;">
         <span style="width: 100%;">
             <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=NobleMajo&theme=onedark" alt="NobleMajo" />
             <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=NobleMajo&show_icons=true&locale=en&theme=onedark" alt="NobleMajo" />
         </span>
     </p>
-    These trophies are even more meaningless because they hide the value of the above statistics:
+    These trophies are even more meaningless because they hide the true value of the statistics above, which are already intransparent:
     <p align="center">
         <a href="https://github.com/NobleMajo">
           <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=NobleMajo&theme=onedark&row=1&column=7" alt="NobleMajo" />
@@ -161,13 +166,13 @@ I have tried and could recommended many more:<br>
 <details>
     <summary><b>❗ Vibe coding guide</b></summary>
     <details>
-        <summary><h1>Stop! Just dont do it!</h1><i>(or click here)</i></summary>
+        <summary><h1>Dont...</h1> <i>(or click here)</i></summary>
 
 ...unless you ***understand*** the **languages** and all the **libraries, frameworks, and tooling** of what you're using.
 
 # Disclaimer
 
-Using AI for micro-tasks can be helpful, but remember: it's merely a ***tool*** that operates on statistics. It's **not** an *intelligent, critically thinking* software engineer.
+Using AI for micro-tasks can be helpful, but remember: it's only a ***TOOL*** like a very complex calculator that operates on statistics. It's **not** an *intelligent, critically thinking* software engineer.
 
 While you might create something functional, there's a ***significant risk*** of building something that backfires. This could happen by the AI *misrepresenting information* or inadvertently *exposing sensitive data*.
 
@@ -192,7 +197,10 @@ This will make you more aware of your app and enable you to **quickly provide AI
 Especially if you're using a "Cursor"-like development environment, an **e2e-script** or **e2e-Makefile-target** that the AI can execute itself is *very practical*.
 This allows the AI to feed itself context and to relatively autonomously repair or fix individual parts. However, this does ***not replace human involvement***.
 
-The E2E script must perform the following actions in a *language-appropriate* order:
+**ERROR == STOP**: If one step has problems or errors the script should stop! This makes the AI automaticly address and fix it. 
+The AI should always execute this exact E2E-script **without taking any shortcuts** and correcting any errors that occur. However, for complex or important design decisions, it should **ask the user for guidance**.
+
+The E2E script must at least perform the following actions in a *language-appropriate* order:
 
 * **Load dependencies**
 * **Build the app**
@@ -204,10 +212,10 @@ The E2E script must perform the following actions in a *language-appropriate* or
 
 ### Linter
 
-If the linter cannot perform one of the following tasks, an *additional tool* should be used or programmed to handle it:
+If used linter cannot perform one of the following tasks, an *additional tool* should be used or programmed to handle it:
 
 * **Warn about excessively large files** (e.g., max. 240 KB)
-* **Warn about excessively large function bodies** (Example: max. 60 lines)
+* **Warn about excessively large function bodies** (e.g., 60 lines)
 * **Warn about unused variables.**
 * **Warn about unused functions.**
 * **Warn about unused files.**
@@ -234,12 +242,39 @@ However, for unorganized problems, you can write *generic prompts* that a "Curso
 
 Here are a few short versions:
 
-* "find code snippets that look like _<this>_ and fix them like _<that>_"
-* "implement things written like _<this>_ using the following design pattern: _<x>_"
+* "find code snippets that look like _<this>_ and fix them like *that*"
+* "implement things written like _<this>_ using the following design pattern: *x*"
 * "split the huge function into sub-functions"
 * "refactor all functions so that the main logic is at the first level and not nested in scopes"
 
-## 4. Provide AI Context
+## 4. AI Responsibility
+
+You are responsible for the changes and the code that the AI spits out. In the end, you can't blame big companies.
+If its just a small error, everything is fine and you can fix it or, if the AI can do it, have it fixed.
+
+But if data is lost, data can be manipulated, or a system fails, its **your fault!**
+AI is not an excuse, just a TOOL.
+You wouldnt say:
+- "my button was stuck",
+- "my calculator calculated it wrong",
+- or "the linter and tests didnt tell me".
+
+If everyone followed this rule, no one would have any problems with AI as tool.
+But unfortunately even I deviate from it in some vibe coding sessions or think to myself when scrolling through code "its fine", only because its easier.
+
+# 5. Context Injection
+
+AI can misinterpret foreign documents and texts, failing to recognise context or user prompts.
+
+At best, the AI will use a different tool or implement code slightly differently.
+
+In the worst-case scenario, it misinterprets context loaded from the web or file system as a user prompt.
+A foreign actor (i.e. a hacker) could inject context that waits for a few user interactions before prompting the user to execute a malicious command.
+Even worse, the AI could execute some code itself.
+
+AI has an infinite number of vulnerabilities that can never all be resolved, and those that can be fixed are difficult to address. This makes it all the more important to pay attention to where the AI obtains its data, watch out for any strange behaviour and question its actions.
+
+## 6. Provide AI Context
 
 1.  Tell the AI *why* it should do something and what your *expected result* is.
 2.  If possible, give the AI access to test itself so you don't have to relay context.
@@ -251,7 +286,9 @@ Here are a few short versions:
 1.  Document Thoroughly.
 2.  An E2E script can autonomously check the codebase.
 3.  You are the developer; you make it happen! Your tool (the AI) is only good for specific problems.
-4.  Focus on providing good AI context.
+4.  **You are responsible**!
+5.  Pay close attention to the AIs behaviour and context.
+6.  Focus on providing the AI some background context.
 
     </details>
 </details>
