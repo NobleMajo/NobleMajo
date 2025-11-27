@@ -61,7 +61,7 @@
         </li>
         <li>
           💬 <b>Contact:</b>  
-          My self-made <a href="https://noblemajo.de/en/index.html">linktree</a>
+          My self-made <a href="https://noblemajo.de/en/">linktree</a>
         </li>
         <li>
           🤔 <b>Ask me about:</b><br>
@@ -296,5 +296,7 @@ AI has an infinite number of vulnerabilities that can never all be resolved, and
 
 <p align="center">
     <a href="https://github.com/NobleMajo?tab=repositories">projects</a> | 
-    <a href="https://noblemajo.de/en/index.html">contact & socials</a>
+    <a href="https://noblemajo.de/en/">contact & socials</a> | 
+    <a href="https://codeberg.org/NobleMajo/">CodeBerg</a> | 
+    <a href="https://gitlab.com/NobleMajo">GitLab</a>
 </p>
