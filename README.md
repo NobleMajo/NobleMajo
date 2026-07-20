@@ -42,41 +42,59 @@
 
 <hr>
 
-<img align="right" style="width: 51%; display: inline-block;" src="https://github-readme-stats.shion.dev/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
+<img align="right" style="width: 50%; display: inline-block;" src="https://github-readme-stats.shion.dev/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
 
-<p align="left">
-    <ul>
-        <li>
-          <b>🧠 Mindset:</b><br>
-           • balance <a href="https://de.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself">DRY</a> ↔  
-          <a href="https://de.wikipedia.org/wiki/KISS-Prinzip">KISS</a><br>
-           • think like the end user<br>
-           • testing is essential
-        </li>
-        <li>
-          🔔 <b>Follow:</b>  
-          Does the button work? <b>FREE</b> testing!
-        </li>
-        <li>
-          💼 <b>Projects:</b>  
-          Explore my <a href="https://github.com/NobleMajo?tab=repositories">repos</a> and drop a 🌟
-        </li>
-        <li>
-          🌳 <b>Link Tree:</b>  
-          <a href="https://noblemajo.de/en/">here</a>
-        </li>
-        <li>
-          💬 <b>Contact:</b>  
-          go ⬆️ check the link tree
-        </li>
-        <li>
-          🤔 <b>Ask me about:</b><br>
-           • TypeScript • Bun • Node.js • Web<br>
-           • Go • Linux • Docker • Kubernetes<br>
-           • DevOps • CI/CD • GitHub • GitLab
-        </li>
-    </ul>  
-</p>
+<ul align="left" style="width: 50%;">
+    <ul align="center" style="width: 100%;">
+        <ul align="left">
+            <div>
+               <b>🌳 Link Tree:</b>
+              <a href="https://noblemajo.de/en/">NobleMajo.DE</a>
+            </div>
+            <div>
+               <b>⌨️ Langs:</b> 
+                🩵Go&🤍Bun+💙TS
+            </div>
+            <div>
+              💼 <b>Projects:</b>
+                <a href="https://github.com/NobleMajo?tab=repositories">repos</a> - drop a 🌟
+            </div>
+            <div>
+              <b>🧠 Mindset:</b><br>
+               <ul>
+                    <li>
+                      <i>balance <a href="https://de.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself">DRY</a> ↔  
+              <a href="https://de.wikipedia.org/wiki/KISS-Prinzip">KISS</a></i>
+                    </li>
+                    <li>
+                      <i>think like the end user</i>
+                    </li>
+                    <li>
+                     <i>testing is essential</i>
+                    </li>
+               </ul>
+            </div>
+            <div>
+              🤔 <b>Ask me about:</b><br>
+               <ul>
+                    <li>
+                      <i>TypeScript • Bun • Node.js • Web</i>
+                    </li>
+                    <li>
+                      <i>Go • Linux • Docker • Kubernetes</i>
+                    </li>
+                    <li>
+                      <i>DevOps • CI/CD • GitHub • GitLab</i>
+                    </li>
+               </ul>
+            </div>
+            <div>
+              🔔 <b>Follow:</b> for free!<br>
+              Does the follow button still work?<br>
+            </div>
+        </ul>  
+    </ul>
+</ul>
 
 <hr>
 
