@@ -45,9 +45,7 @@
 <img align="right" style="width: 50%; display: inline-block;" src="https://github-readme-stats.shion.dev/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
 
 <ul align="left" style="width: 50%;">
-    <ul align="center" style="width: 100%;">
-        <ul align="left">
-            <div>
+      <div>
                <b>🌳 Link Tree:</b>
               <a href="https://noblemajo.de/en/">NobleMajo.DE</a>
             </div>
@@ -92,8 +90,6 @@
               🔔 <b>Follow:</b> for free!<br>
               Does the follow button still work?<br>
             </div>
-        </ul>  
-    </ul>
 </ul>
 
 <hr>
