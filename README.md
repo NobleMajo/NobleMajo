@@ -6,19 +6,19 @@
       Just another Software & DevOps Engineer from Hannover, Germany
     </p>
     <a target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/GJSbyJ5Jpe">
-        <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="Discord Server" />
+        <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="👀Discord Server" />
     </a>
     <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/~noblemajo">
-        <img src="https://img.shields.io/badge/npm-a?logo=npm&logoColor=white&color=cc3630&style=for-the-badge" alt="NPM" />
+        <img src="https://img.shields.io/badge/npm-a?logo=npm&logoColor=white&color=cc3630&style=for-the-badge" alt="👀NPM" />
     </a>
     <a target="_blank" rel="noopener noreferrer" href="https://hub.docker.com/u/noblemajo">
-        <img src="https://img.shields.io/badge/dockerhub-a?logo=docker&logoColor=white&color=0db7ed&style=for-the-badge" alt="DockerHub" />
+        <img src="https://img.shields.io/badge/dockerhub-a?logo=docker&logoColor=white&color=0db7ed&style=for-the-badge" alt="👀DockerHub" />
     </a>
     <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
-        <img src="https://img.shields.io/badge/spotify-a?logo=youtube&color=21D05D&logoColor=white&style=for-the-badge" alt="Spotify" />
+        <img src="https://img.shields.io/badge/spotify-a?logo=youtube&color=21D05D&logoColor=white&style=for-the-badge" alt="👀Spotify" />
     </a>
     <a target="_blank" rel="noopener noreferrer" href="https://telegram.me/NobleMajo">
-        <img src="https://img.shields.io/badge/telegram-a?logo=telegram&color=30ADED&logoColor=white&style=for-the-badge" alt="Telegram" />
+        <img src="https://img.shields.io/badge/telegram-a?logo=telegram&color=30ADED&logoColor=white&style=for-the-badge" alt="👀Telegram" />
     </a>
 </div>
 -->
@@ -27,14 +27,14 @@
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
         <img align="left" style="width: 35%;" />
-        <img class="cropimg" align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="NobleMajo Avatar with dark background" style="width: 29%;" />
+        <img class="cropimg" align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="👀NobleMajo Avatar with dark background" style="width: 29%;" />
         <img align="right" style="width: 35%;" />
     </span>
 </p>
 -->
 
-<img align="left" src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="NobleMajo" height="40" />
-<img align="right" src="https://komarev.com/ghpvc/?label=guests-count&username=NobleMajo&color=0e75b6&style=for-the-badge" alt="NobleMajo github guest count" />
+<img align="left" src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="👀" height="40" />
+<img align="right" src="https://komarev.com/ghpvc/?label=guests-count&username=NobleMajo&color=0e75b6&style=for-the-badge" alt="👀" />
 
 <h3 align="left">
     Welcome!
@@ -42,7 +42,7 @@
 
 <hr>
 
-<img align="right" style="width: 50%; display: inline-block;" src="https://github-readme-stats.shion.dev/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
+<img align="right" style="width: 50%; display: inline-block;" src="https://github-readme-stats.shion.dev/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="👀" />
 
 <ul align="left" style="width: 50%;">
       <div>
@@ -102,55 +102,55 @@ There are many other very good alternatives, but the following options worked re
 
 <p align="left">
     <a href="https://golang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="👀go"
     width="92" height="92" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript" width="92" height="92" />
+    alt="👀typescript" width="92" height="92" />
     </a>
     <a href="https://bun.sh" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg"
-    alt="bun.js" width="92" height="92" />
+    alt="👀bun.js" width="92" height="92" />
     </a>
     <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="92"
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="👀kubernetes" width="92"
     height="92" />
     </a>
     <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker" width="92" height="92" />
+    alt="👀docker" width="92" height="92" />
     </a>
     <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="👀linux"
     width="92" height="92" />
     </a>
     <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="92" height="92" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="👀git" width="92" height="92" />
     </a>
     <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-    alt="express" width="92" height="92" />
+    alt="👀express" width="92" height="92" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="92" height="92" />
+    alt="👀javascript" width="92" height="92" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5" width="92" height="92" />
+    alt="👀html5" width="92" height="92" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-    alt="css3" width="92" height="92" />
+    alt="👀css3" width="92" height="92" />
     </a>
     <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-    alt="postgresql" width="92" height="92" />
+    alt="👀postgresql" width="92" height="92" />
     </a>
     <a href="https://redis.io" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-    alt="redis" width="92" height="92" />
+    alt="👀redis" width="92" height="92" />
     </a>
 </p>
 
