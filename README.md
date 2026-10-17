@@ -34,7 +34,7 @@
 -->
 
 <img align="left" src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="NobleMajo" height="40" />
-<img align="right" src="https://komarev.com/ghpvc/?username=NobleMajo&label=guests-count&color=0e75b6&style=for-the-badge" alt="NobleMajo github guest count" />
+<img align="right" src="https://komarev.com/ghpvc/?label=guests-count&username=NobleMajo&color=0e75b6&style=for-the-badge" alt="NobleMajo github guest count" />
 
 <h3 align="left">
     Welcome!
