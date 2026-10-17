@@ -240,70 +240,54 @@ If your project isn't something the AI has encountered countless times on the in
 
 Make yourself truly aware of the above before reading on, as it will improve your prompts and your understanding of what you're actually working with: **a Tool**.
 
-The following tips are more for cursor- and opencode-like development environments.
+The following tips are more for (cursor-, claude- and opencode-like) agentic development tools as harness.
 Here are my tips you are here for:
 
 ### 1. Document Your Project Thoroughly
 
 Create a ***powerful*** `README.md` file containing a general description, a simple configuration guide, a user story, and an explanation of the problem that your app is designed to solve.
-Also, provide a link to a *more detailed* configuration guide.
+Also, provide a links to *more detailed* implementation-, usage- and configuration-guides for example in a `docs` dir.
 
 This will make you more aware of your app and enable you to **quickly provide AI the context** it will probably need.
 
 ### 2. E2E-Script
 
-Especially if you're using a "Cursor"-like development environment, an **e2e-script** or **e2e-Makefile-target** that the AI can execute itself is *very practical*.
+Especially if you're using a opencode-like development tool, an **e2e-script** of any kind that the AI can execute itself is *very practical*.
 This allows the AI to feed itself context and to relatively autonomously repair or fix individual parts. However, this does ***not replace human involvement***.
 
-**ERROR == STOP**: If one step has problems or errors the script should stop! This makes the AI automaticly address and fix it. 
-The AI should always execute this exact E2E-script **without taking any shortcuts** and correcting any errors that occur. However, for complex or important design decisions, it should **ask the user for guidance**.
+A test script should do stuff like syntax, compile/build, test and lint steps.
 
-The E2E script must at least perform the following actions in a *language-appropriate* order:
+**Fast-Fail**: If the script detects any problem, let it fail and output the problem. 
+**ERROR == REFACTOR**: Let the Agent execute the script iterativ. This makes the AI automaticly address and fix it. 
+**Prioritise important errors**: Following order in the script helps the AI to detect the more important problems first:
+1. Syntax Test via formatter / syntax testing
+2. Build/Compile Test via build tools or the compiler directly
+3. Testing via test tools
+4. Linting
+    1. Correctness & Bugs
+    2. Unused Code & Variables
+    3. Security
+    4. Test Correctness
+    5. Performance
+    6. Complexity & Maintainability
+    7. Style & Conventions
 
-* **Load dependencies**
-* **Build the app**
-* **Run unit tests**
-* **Format the codebase**
-* **Run a linter.**
-* **Execute the app**
-* **Test the app against example data**
 
-### Linter
-
-If used linter cannot perform one of the following tasks, an *additional tool* should be used or programmed to handle it:
-
-* **Warn about excessively large files** (e.g., max. 240 KB)
-* **Warn about excessively large function bodies** (e.g., 60 lines)
-* **Warn about unused variables.**
-* **Warn about unused functions.**
-* **Warn about unused files.**
-
-### Bun.js + TypeScript Example
-
-Here are some commands and tools you could use:
-
-* `bun i --frozen-lockfile`
-* `bun run tsc`
-* `bun test`
-* `bun x prettier --write src eslint.config.mts`
-* `bun x tsr -r src/main.ts`
-* `eslint --max-warnings=0 || ( bun x tsc eslint.config.mts --noEmit --esModuleInterop --module ESNext --target ESNext --moduleResolution bundler --lib ESNext && exit 1 )`
-    (shows eslint config issues directly and doesn't allow any warnings)
-* After that, a test environment can be prepared and then tested.
+The AI should always execute this exact E2E-script **without taking any shortcuts** and correcting any errors that occur. However, for conflicts and complex or important design decisions, it should **ask the user for guidance**.
 
 ### 3. Recurring Prompts
 
-If you have a specific problem in one place, *look at it and solve it!*
-If you want something specific, *implement it!*
+If you have a specific problem in one place, *look at it and solve it* or *create a custom prompt*.
+If you want something specific, *implement it* or *prompt specificly*.
 
-However, for unorganized problems, you can write *generic prompts* that a "Cursor"-like development environment can execute.
+However, for unorganized problems, you can write *generic prompts* as shortcuts (aka commands or aliases) that a opencode-like development tool can execute.
 
-Here are a few short versions:
-
-* "find code snippets that look like _<this>_ and fix them like *that*"
-* "implement things written like _<this>_ using the following design pattern: *x*"
-* "split the huge function into sub-functions"
-* "refactor all functions so that the main logic is at the first level and not nested in scopes"
+Here some example generic prompt shotcuts:
+- **explore**: Let the Agent explore the codebase and current state. Here you can use https://github.com/NobleMajo/explorer-mcp
+- **review**: Let the agent check the codebase for security issues, bugs, anti-patterns, design related issues and better alternative ways. It should use a ask or question tool to replay to you so you can interact with all the diffrent things it lists. 
+- **finilize**: Let the agent run a test script iterativ to check for problems and fix them.
+- **commit**: This should not let the AI agent commit anything. Just check the uncommited changes and recommend example commit messages based on the commits history messages. It should seperate the uncommited changes into mutiple commits if a seperation makes sense.
+- **commit2**: Let the AI agent use the recommended commit messages from **commit** and commit them that way.
 
 ### 4. AI Responsibility
 
@@ -311,32 +295,32 @@ You are responsible for the changes and the code that the AI spits out. In the e
 If its just a small error, everything is fine and you can fix it or, if the AI can do it, have it fixed.
 
 But if data is lost, data can be manipulated, or a system fails, its **your fault!**
-AI is not an excuse, just a TOOL.
-You wouldnt say:
-- "my button was stuck",
-- "my calculator calculated it wrong",
-- or "the linter and tests didnt tell me".
+AI is not an excuse, just a tool.
+You wouldnt say "its not my fault because...":
+- "... my button was stuck",
+- "... my calculator calculated it wrong",
+- ... the linter and tests didnt tell me".
 
 If everyone followed this rule, no one would have any problems with AI as tool.
-But unfortunately even I deviate from it in some vibe coding sessions or think to myself when scrolling through code "its fine", only because its easier.
+But unfortunately even I sometimes deviate from it in some vibe coding sessions or think to myself when scrolling through code "its fine". But i take the responsibility for it.
 
 ## 5. Context Injection
 
-AI can misinterpret foreign documents and texts, failing to recognise context or user prompts.
+AI can never fully distinguish the users prompt from context. A model can be tricked by text from a foreign website, repo or files. Even though various intermediary systems may attempt to filter and prevent this, there is always a chance that the wrong context will slip through.
 
-At best, the AI will use a different tool or implement code slightly differently.
-
-In the worst-case scenario, it misinterprets context loaded from the web or file system as a user prompt.
+1. At best, the AI will use a different tool or implement code slightly differently.
+2. In the worst-case scenario, it misinterprets context loaded from the web or file system as a user prompt.
 A foreign actor (i.e. a hacker) could inject context that waits for a few user interactions before prompting the user to execute a malicious command.
 Even worse, the AI could execute some code itself.
 
-AI has an infinite number of vulnerabilities that can never all be resolved, and those that can be fixed are difficult to address. This makes it all the more important to pay attention to where the AI obtains its data, watch out for any strange behaviour and question its actions.
+**AI** (harness, agent, model, ...) has an infinite number of vulnerabilities that can never all be found and resolved. This makes it all more important to pay attention to where a agent obtains its data, watch out for any strange behaviour and question its actions.
 
 ### 6. Provide AI Context
 
-1.  Tell the AI *why* it should do something and what your *expected result* is.
-2.  If possible, give the AI access to test itself so you don't have to relay context.
-3.  Give the AI *precise whitelist limitations* that tell it which files it is allowed to edit.
+1.  Explain the *problem* you wanna solve to the AI. Also tell the AI *why* it should do something and what your *expected result* is.
+2.  If possible, give the agent access to tools and tests itself so you don't have to relay history.
+3.  Give the agent *precise whitelist limitations* that tell it which files it is allowed to edit.
+4.  Place your harness in a sandbox to define the boundaries and interaction interfaces between you and your host machine.
 
 ## Conclusion
 
@@ -349,7 +333,7 @@ AI has an infinite number of vulnerabilities that can never all be resolved, and
 6.  Focus on providing the AI some background context.  
 
 ### explorer-mcp
-My read-only MCP server for fast, easy & securely AI context:  
+My read-only MCP server for fast, easy & securely context agent gethering:  
 https://github.com/NobleMajo/explorer-mcp
 
 </details>
